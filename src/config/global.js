@@ -1,9 +1,10 @@
 export default {
   global: {
     componenteFormativo: 'El Mercado Turístico',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    descripcionCurso:
+      'La comprensión del mercado turístico requiere el reconocimiento de conceptos básicos del mercado, vinculados al sistema turístico, identificando cada uno de sus elementos (superestructura, planta turística, producto turístico, oferta y demanda) y su interrelación con los establecimientos que componen la cadena de valor del turismo desde la dinámica interna que se genera entre ellos al comercializar productos y servicios.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal1.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
