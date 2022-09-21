@@ -33,14 +33,42 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Mercado',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Elementos del mercado',
             hash: 't_1_1',
+          },
+
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.2',
+            titulo: 'Clasificación de los mercados',
+            hash: 't_1_2',
+          },
+
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Mercado objetivo y mercado meta',
+            hash: 't_1_3',
+          },
+
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo: 'Clientes, consumidores y usuarios',
+            hash: 't_1_4',
+          },
+
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.5',
+            titulo: 'Plan de mercadeo',
+            hash: 't_1_5',
           },
         ],
       },

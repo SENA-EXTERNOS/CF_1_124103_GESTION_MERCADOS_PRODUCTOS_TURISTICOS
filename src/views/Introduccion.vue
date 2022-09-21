@@ -25,6 +25,8 @@
             img(src='@/assets/curso/temas/Introduccion/1foto.svg', alt='Texto que describa la imagen')
 
 
+      
+
       .col-lg-6
        figure
       .video
