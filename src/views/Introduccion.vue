@@ -12,7 +12,7 @@
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .row.justify-content-around.align-items-center
-        .col-lg-8.mb-5
+        .col-lg-7.mb-5
           p.mt-2
            | Estimado aprendiz, bienvenido a este recurso educativo el cual describe los aspectos relacionados con   
            b el mercado turístico
