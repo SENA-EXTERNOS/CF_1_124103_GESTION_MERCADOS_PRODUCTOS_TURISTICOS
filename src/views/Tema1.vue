@@ -22,7 +22,7 @@
     .tarjeta.bgr-slider.p-4.mt-5
       SlyderA(tipo="b")
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
                 i.lista-ul__vineta
@@ -35,12 +35,12 @@
               p Esta frase se refiere a mercados como grupos de consumidores o conjuntos de personas que, por sus características, son de interés para una empresa.
          
        
-          .col-md-6
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/Tema1/slider1.png', alt='Texto que describa la imagen')
               
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
                 i.lista-ul__vineta
@@ -54,13 +54,13 @@
 
 
 
-          .col-md-6
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/Tema1/slider2.png', alt='Texto que describa la imagen')
 
 
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
                 i.lista-ul__vineta
@@ -72,12 +72,12 @@
                 b Relación con el significado:                                 
               p Esta afirmación, se refiere al mercado como un espacio que no es solo físico, donde convergen la oferta y la demanda. Como fruto de su relación se establecen los precios.
 
-          .col-md-6
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/Tema1/slider3.png', alt='Texto que describa la imagen')
 
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
                 i.lista-ul__vineta
@@ -90,12 +90,12 @@
               p Esta expresión habla de la actividad económica de venta de productos normalmente de la canasta familiar.
 
 
-          .col-md-6
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/Tema1/slider4.png', alt='Texto que describa la imagen')
 
         .row
-          .col-md-6.mb-4.mb-md-0
+          .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
                 i.lista-ul__vineta
@@ -108,17 +108,17 @@
               p Esta frase se refiere al mercado como el resultado de la compra de artículos de la canasta familiar.
 
 
-          .col-md-6
+          .col-md-4
             figure
               img(src='@/assets/curso/temas/Tema1/slider5.png', alt='Texto que describa la imagen')
 
     .row.mt-5       
     .row.justify-content-around.align-items-center
-        .col-lg-6.sm-8
+        .col-lg-5.sm-8
           figure
           img(src='@/assets/curso/temas/Tema1/mercado.png' alt='Texto que describa la imagen' width='505px' height='430px')
            
-        .col-lg-6.sm-8
+        .col-lg-7.sm-8
           p.mt-2 El mercado es el espacio, físico o virtual donde se produce el intercambio de bienes y servicios. Todas las interacciones que surgen a partir de este intercambio, por lo tanto se mueve alrededor de las actividades económicas fundamentales, que son producción, distribución y consumo, lo que deja ver que sus actores principales son los consumidores, productores y distribuidores de dichos bienes y servicios, quienes en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado se encuentran el precio, el producto y el proceso de intercambio.
                          
           .row
@@ -142,7 +142,7 @@
       p Es así como en el mercado convergen una serie de actores y relaciones que de aquí en adelante denominaremos elementos del mercado y que vale la pena mirar en detalle: 
     .row.justify-content-center.mt-5
       .col-lg-8.sm-8
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.color-acento-contenido-mercado
           b Figura 1.
           span  Elementos del mercado
         ImagenInfograficaB.color-acento-botones.mb-5
@@ -214,7 +214,7 @@
 
     .row.mt-4
     TabsC.color-acento-contenido
-      .py-3.py-md-4(titulo="Ejemplo 1: Consumo de tapabocas")
+      .py-3.py-md-4(titulo="<b>Ejemplo 1: Consumo de tapabocas</b>")
         .row
           .col-md-6.mb-4.mb-md-0
             figure
@@ -222,7 +222,7 @@
           .col-md-6
             h4 Consumo de tapabocas
             p En el año 2020 durante la emergencia sanitaria debido al COVID 19, el consumo por el uso de tapabocas se incrementó de manera desproporcionada, triplicando su precio lo que generó escasez de este producto, desencadenando una serie de situaciones en la producción, distribución y venta de este, que llevó  al incremento de su precio donde, una caja, por 20 unidades, de tapabocas antivirus de la marca Apolo N95 se encontraba  hasta en 445.000 pesos colombianos en Internet según publicación de El Pulzo en 2020.    
-      .py-3.py-md-4(titulo="Ejemplo 2: Tendencia alimentación saludable")
+      .py-3.py-md-4(titulo="<b>Ejemplo 2: Tendencia alimentación saludable</b>")
         .row
           .col-md-6.mb-4.mb-md-0
             figure
@@ -252,10 +252,10 @@
 
     .row.mt-5
       p A continuación, se muestran los tipos de mercados clasificados según tipo de producto, según consumidor y tipo de demanda.
-      .row.justify-content-center
-          .col-lg-6
-            b Los mercados se pueden clasificar de diferentes maneras teniendo en cuenta cada elemento de estos, permitiendo su comprensión así:
-               
+    .row.justify-content-center
+      .col-lg-8.textoacordion
+        b Los mercados se pueden clasificar de diferentes maneras teniendo en cuenta cada elemento de estos, permitiendo su comprensión así:
+              
       
     .bg--img_03
       .row.justify-content-center
@@ -263,7 +263,7 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/Tema1/Acordion1.png", alt="alt").img400.m-auto
         .col-lg-8
-         AcordionA(tipo="a" clase-tarjeta="tarjeta bgr-tarjeta-3").mt-5
+         AcordionA(tipo="a" clase-tarjeta="tarjetabgr-tarjeta-3-mercados").mt-5
           .row(titulo="Según el tipo de producto")
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de bienes y servicios:]  en los que se intercambian todo tipo de bienes y servicios ofrecidos por las empresas para satisfacer las necesidades de las personas, familias, asociaciones o de otras empresas.
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de factores:] en el que se intercambian los factores de producción que configuran los insumos que se usan para producir otros bienes y servicios, así como el trabajo a cambio de remuneración.
@@ -294,16 +294,17 @@
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .row.justify-content-around.align-items-center
-        .col-lg-8.mb-5
+        .col-lg-6.mb-5
           p Como fue mencionado anteriormente, el mercado objetivo es una de las clasificaciones de los mercados según el tipo de demanda y es aquel que representa al grupo de personas o empresas que comparten una o más características y que por sus condiciones físicas, geográficas, sociales, culturales y/o económicas son de interés para una empresa en su labor comercial.
           
           .col-lg-12.sm-8
             .cajon.color-acento-contenido.p-4.mb-4     
                 p Para comprender mejor el mercado objetivo, se hace necesario conocer el concepto de ‘Segmentación de mercados’, el que, según Soto, Tamayo, y Almanza (2018) en su artículo’ ‘Análisis de variables de segmentación de mercados’ define como el proceso mediante el cual se divide un mercado poblacional en grupos de consumidores con necesidades y características homogéneas para poder ofrecerles bienes y servicios que tengan un valor de uso o de consumo.
   
-        .col-lg-4
+        
+        .col-lg-6
           figure
-            img(src='@/assets/curso/temas/Tema1/tema13.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/Tema1/tema13.png', alt='Texto que describa la imagen').imgmercadoobjetivo
 
         .row.justify-content-around.align-items-center
           .col-lg-2.col-sm-10
@@ -314,14 +315,12 @@
 
             
               .col-lg-6.col-sm-10
-                a.anexo.mb-4(:href="obtenerLink('downloads/Anexo_1.pdf')" target="_blank")
+                a.anexo(:href="obtenerLink('downloads/Anexo_1.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
                   .anexo__texto
                     b Anexo1.
                     p Mercado objetivo y mercado meta  
-
-
 
     separador      
 
@@ -343,43 +342,43 @@
     TabsA.color-acento-contenido.mb-5        
       .tarjeta.color-tarjetacliente.p-4(titulo="El cliente")      
         .row
-          .col-xl-6.mb-4
+          .col-xl-2.mb-4
             figure
             img(src='@/assets/curso/temas/Tema1/cliente.svg' width='110px' height='110px')
             
-          .col-xl-6
+          .col-xl-10
             h4 El cliente
             p Es la persona natural o jurídica que realiza una transacción monetaria a cambio de un producto o servicio que puede ser para su uso personal o para el de otras personas, al igual que puede ser el insumo para la fabricación de otros bienes y servicios o para una actividad empresarial.
        
       .tarjeta.color-tarjetacliente.p-4(titulo="El consumidor")
       
         .row
-          .col-xl-6.mb-4
+          .col-xl-2.mb-4
             figure
               img(src='@/assets/curso/temas/Tema1/Consumidor.svg' width='110px' height='110px')
             
-          .col-xl-6
+          .col-xl-10
             h4 El consumidor
             p Es la persona natural que consume o dicho en otras palabras, es quien adquiere a través de una transacción monetaria productos y servicios para satisfacer una necesidad personal sin ningún tipo de ánimo de lucro.
             
       .tarjeta.color-tarjetacliente.p-4(titulo="El usuario")
      
         .row
-          .col-xl-6.mb-4
+          .col-xl-2.mb-4
             figure
               img(src='@/assets/curso/temas/Tema1/usuario.svg' width='110px' height='110px')
             
-          .col-xl-6
+          .col-xl-10
             h4 El usuario
             p Es la persona natural que utiliza o disfruta de un servicio para su uso personal, este puede ser ofrecido por una empresa pública o privada. 
     
         
     .row.justify-content-around.align-items-center
-          .col-lg-2.col-sm-10
+          .col-lg-2
             figure
               img(src='@/assets/curso/temas/Tema1/masinfo.svg', alt='Texto que describa la imagen').img-tarjeta-linea-1
-          .col-lg-10.col-sm-10
-            p.mt-5 Para ampliar información revise el Anexo 1. Mercado objetivo y mercado meta, en donde se detallan necesidades, intereses o deseos de uno de los segmentos de mercados identificados y las características del mercado objetivo seleccionado, se exponen las fases de cómo realizar la segmentación de mercados y cómo generar una propuesta de valor.
+          .col-lg-10
+            p Para ampliar información revise el Anexo 1. Mercado objetivo y mercado meta, en donde se detallan necesidades, intereses o deseos de uno de los segmentos de mercados identificados y las características del mercado objetivo seleccionado, se exponen las fases de cómo realizar la segmentación de mercados y cómo generar una propuesta de valor.
 
 
             .col-lg-6.col-sm-10

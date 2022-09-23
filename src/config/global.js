@@ -77,8 +77,28 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Mercado',
+        titulo: 'Mercado turístico  ',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.1',
+            titulo: 'Elementos del mercado turístico',
+            hash: 't_2_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.2',
+            titulo: 'Sistema turístico',
+            hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Producto Turístico',
+            hash: 't_2_3',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -147,10 +167,128 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'American Marketing Association. (s.f.). Definitions of Marketing.',
+      link: 'What is Marketing? — The Definition of Marketing — AMA',
+    },
+    {
+      referencia:
+        'Acerenza, M.A. (1990). Agencias de Viajes, organización y operación. Trillas.',
+
+      link: '',
+    },
+    {
+      referencia:
+        'BBC News. (7 de agosto de 2019). Por qué se ha disparado el precio del aguacate y hasta cuándo seguirá subiendo. ',
+
+      link:
+        'Por qué se ha disparado el precio del aguacate y hasta cuándo seguirá subiendo - BBC News Mundo',
+    },
+    {
+      referencia:
+        'Centro Educacional Fernando de Aragón (2020). Módulo: procesos administrativos nm3.',
+
+      link:
+        '3°-MEDIO-GUIA-6-CLASSROOM-PROCESOS-ADMINISTRATIVOS.pdf (colegiofernandodearagon.cl)',
+    },
+    {
+      referencia:
+        'Cepeda, L. A. V. (2018). Proceso de segmentación. Visión Empresarial, (6), 238-243.',
+
+      link: '',
+    },
+    {
+      referencia:
+        'De La Ballina, F. (2018). Marketing turístico aplicado. (1ª Ed.). ESIC, Alfaomega. ',
+
+      link:
+        'https://www.alphaeditorialcloud.com/reader/marketing-turistico-aplicado?location=30',
+    },
+    {
+      referencia:
+        'El Pulzo. (6 de marzo de 2020). Se triplicó el precio de los tapabocas por la llegada del coronavirus a Colombia. ',
+
+      link: 'Se triplica el precio de los tapabocas en Colombia (pulzo.com)',
+    },
+    {
+      referencia:
+        'García, R, Olmos, L. (2016). Estructura del mercado turístico. (2ª Ed.). Paraninfo.',
+
+      link:
+        'https://www.alphaeditorialcloud.com/reader/estructura-del-mercado-turistico?location=35',
+    },
+    {
+      referencia:
+        'LÓPEZ SALAS, S. E. R. G. I. O. (2020). Atención al cliente, consumidor y usuario. Ediciones Paraninfo, SA.',
+
+      link: '',
+    },
+
+    {
+      referencia:
+        'Machado Besantes, E. R. (2018). Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios. 26_MA (uce.edu.ec)',
+
+      link: '',
+    },
+
+    {
+      referencia:
+        'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). La evolución del marketing: una aproximación integral. 78-2019.pdf (unach.cl)',
+
+      link: '',
+    },
+
+    {
+      referencia:
+        'MINCIT (2017). Definiciones y actividades prestadoras de servicios turísticos. ',
+
+      link: 'AGENCIAS DE VIAJES Y TURISMO: (mincit.gov.co)',
+    },
+
+    {
+      referencia:
+        'MINCIT (2021). Política pública de infraestructura turística',
+
+      link: ' 09-07-21-politicavmt2020-baja-esp.aspx (mincit.gov.co)',
+    },
+
+    {
+      referencia:
+        'Organización Mundial del Turismo. (s.f.). Glosario de términos de turismo. ',
+
+      link: ' Glosario de términos de turismo | OMT (unwto.org)',
+    },
+
+    {
+      referencia:
+        'Organización Mundial del Turismo. (s.f.). EL TURISMO MÁS DE CERCA: MEDICIÓN Y ANÁLISIS SUBNACIONAL — PROYECTO CONJUNTO INROUTE-OMT',
+
+      link:
+        'El turismo más de cerca: medición y análisis subnacional — proyecto conjunto INRouTe-OMT — | OMT (unwto.org)',
+    },
+
+    {
+      referencia:
+        'Resico, M. F. (2019). Introducción a la economía social de mercado. Konrad Adenauer Stiftung. get_file (kas.de)',
+
+      link: '',
+    },
+
+    {
+      referencia:
+        'Rivera, A (2018). Atractivos para un turismo con sentido. Universidad Tecnológica de Pereira',
+
+      link: '',
+    },
+
+    {
+      referencia:
+        'Soto, A. F., Tamayo, Y. D., & Almanza, C. A. (2018). Análisis de variables de segmentación de mercados. I+ D Revista de Investigaciones, 11(1), 78-92',
+
       link: '',
     },
   ],
+
   creditos: {
     liderEquipo: [
       {
