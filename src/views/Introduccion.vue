@@ -12,7 +12,7 @@
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .row.justify-content-around.align-items-center
-        .col-lg-7.mb-5
+        .col-lg-7
           p.mt-2
            | Estimado aprendiz, bienvenido a este recurso educativo el cual describe los aspectos relacionados con   
            b el mercado turístico
@@ -27,7 +27,7 @@
 
       
 
-      .col-lg-6
+      .col-lg-6.mt-4
        figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

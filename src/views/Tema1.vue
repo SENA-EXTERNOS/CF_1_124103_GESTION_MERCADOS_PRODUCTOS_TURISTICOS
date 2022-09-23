@@ -6,22 +6,20 @@
       .titulo-principal__numero
         span 1
       h1 Mercado   
+
      
-    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
-      .row.m-0.align-items-center.justify-content-between
-        .col-lg-4.mb-4.mb-lg-0
-          figure
-            img(src='@/assets/curso/temas/Tema1/carrito.svg' alt='Texto que describa la imagen' width='144,87' height='137' )
-        
-        .col-lg-8
-          .bloque-texto-a__texto.p-4
-            p Mercado es una palabra que puede tomar diferentes significados dependiendo del entorno en el que se mueva el tema o del lente con el que se mire, obsérvese en la figura 1, varias frases de la cotidianidad y su relación con los diferentes significados de la palabra mercado: A continuación, se presentan cuatro frases y su relación con el significado del concepto de mercado, acompañado de imágenes que ambientan dicho concepto en coherencia con lo que cada frase representa.
-              br
-              br
-              | A continuación, se presentan cuatro frases y su relación con el significado del concepto de mercado, acompañado de imágenes que ambientan dicho concepto en coherencia con lo que cada frase representa.
-        
- 
-    .tarjeta.bgr-slider.p-4
+    .row.mt-5.justify-content-center
+      .col-10
+        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/Tema1/carrito1.svg')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 A continuación, se presentan los elementos del mercado turístico en donde se detalla información acerca de la diferencia entre viajero, visitante, turista y excursionista, de igual forma se describen los tipos de prestadores turísticos como son las agencias de viajes, el concepto de qué es un producto turístico, a qué se refiere las tarifas, qué determina la demanda y la oferta turística. 
+
+
+      
+    .tarjeta.bgr-slider.p-4.mt-5
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0
@@ -30,7 +28,7 @@
                 i.lista-ul__vineta
                 b Frase:                                 
               p Una tradicional empresa de telecomunicaciones se encuentra buscando nuevos mercados.
-              br 
+              p.mt-5
               li 
                 i.lista-ul__vineta
                 b Relación con el significado:                                 
@@ -48,7 +46,7 @@
                 i.lista-ul__vineta
                 b Frase:                                 
               p ¿Sanciones económicas a Rusia afectarían el mercado de flores en Colombia?
-              br 
+              p.mt-4 
               li 
                 i.lista-ul__vineta
                 b Relación con el significado:                                 
@@ -68,7 +66,7 @@
                 i.lista-ul__vineta
                 b Frase:                                 
               p La mayoría de las pequeñas empresas no permanecen en el mercado por más de cinco años. 
-              br 
+              p.mt-4 
               li 
                 i.lista-ul__vineta
                 b Relación con el significado:                                 
@@ -85,7 +83,7 @@
                 i.lista-ul__vineta
                 b Frase:                                 
               p Los miércoles habrá mercado campesino en mi barrio.
-              br 
+              p.mt-4  
               li 
                 i.lista-ul__vineta
                 b Relación con el significado:                                 
@@ -103,7 +101,7 @@
                 i.lista-ul__vineta
                 b Frase:                                 
               p El precio del mercado que hicimos hoy fue como lo tenía presupuestado..
-              br 
+              .mt-4 
               li 
                 i.lista-ul__vineta
                 b Relación con el significado:                                 
@@ -118,26 +116,26 @@
     .row.justify-content-around.align-items-center
         .col-lg-6.sm-8
           figure
-           img(src='@/assets/curso/temas/Tema1/mercado.png' alt='Texto que describa la imagen' width='505px' height='430px')
+          img(src='@/assets/curso/temas/Tema1/mercado.png' alt='Texto que describa la imagen' width='505px' height='430px')
            
         .col-lg-6.sm-8
           p.mt-2 El mercado es el espacio, físico o virtual donde se produce el intercambio de bienes y servicios. Todas las interacciones que surgen a partir de este intercambio, por lo tanto se mueve alrededor de las actividades económicas fundamentales, que son producción, distribución y consumo, lo que deja ver que sus actores principales son los consumidores, productores y distribuidores de dichos bienes y servicios, quienes en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado se encuentran el precio, el producto y el proceso de intercambio.
                          
-            .row
-            .col-lg-12.mb-5.mb-lg-0
-              .bloque-texto-b.color-acento-contenido.p-4
-                .bloque-texto-b__texto
-                  i.fas.fa-quote-left
-                  h3.mb-5 Introducción a la economía social de mercado’ “El mercado es una institución económica en la cual se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, por lo tanto, el sistema de mercado se basa en el intercambio, lo que implica que para tener los bienes y servicios deseados se debe dar a la otra parte lo que ésta a la vez requiere o desea.
-                  i.fas.fa-quote-right
-                p.texto-img.mb4 -Según lo menciona Resico, M. F. (2019. p.67) en su libro.
+          .row
+          .col-lg-12.mb-5.mb-lg-0
+            .bloque-texto-b.color-acento-contenido.p-4
+              .bloque-texto-b__texto
+                i.fas.fa-quote-left
+                h3.mb-5 Introducción a la economía social de mercado’ “El mercado es una institución económica en la cual se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, por lo tanto, el sistema de mercado se basa en el intercambio, lo que implica que para tener los bienes y servicios deseados se debe dar a la otra parte lo que ésta a la vez requiere o desea.
+                i.fas.fa-quote-right
+              p.texto-img.mb4 -Según lo menciona Resico, M. F. (2019. p.67) en su libro.
               
         separador
       
 
     #t_1_1
 
-    .titulo-segundo.color-acento-contenido.mt-5
+    .titulo-segundo.color-acento-contenido
       h2 1.1  Elementos del mercado
 
     .row.mt-5
@@ -155,41 +153,41 @@
 
           div(x="17%" y="23%" tooltip="Ver más" numero="1")
             h5 Oferta
-            br
+            p.mt-4
             p Cantidad de un producto o servicio que se dispone para la venta en un periodo determinado, es decir, número de productos o servicios que están disponibles para la venta en una hora, día, mes o año determinado.
 
 
           div(x="17%" y="45%" tooltip="Ver más" numero="2")
             h5 Precio
-            br
+            p.mt-4
             p Valor comercial de intercambio a través del cual el consumidor puede adquirir un producto.
 
           div(x="17%" y="67%" tooltip="Ver más" numero="3")
             h5 Productores
-            br
+            p.mt-4
             p Son personas, familias o empresas que dan origen de manera artesanal o industrial a los bienes y servicios. Estos productores pueden pertenecer al sector primario (agricultura, caza, pesca y silvicultura), secundario (manufactura, construcción, energético) o terciario (finanzas, comercio, turismo, comunicaciones, ocio, espectáculos, cultura, servicios públicos, educación, sanidad) de la economía.
 
           div(x="83%" y="23%" tooltip="Ver más" numero="4")
             .h5.mb-2 Consumidores
-             br
+             p.mt-4
             p Son personas, familias o empresas que adquieren un determinado producto o servicio para satisfacer sus necesidades, intereses o deseos.
       
     
           div(x="83%" y="44%" tooltip="Ver más" numero="5")
             .h5.mb-2 Demanda
-            br  
+            p.mt-4  
             p Cantidad de un producto o servicio específico que las personas quieren tener en un horizonte de tiempo determinado, es decir, la demanda, constituye el número de productos o servicios que en una hora, día, mes o año determinado se ha calculado que los consumidores están dispuestos a adquirir.
       
     
           div(x="83%" y="67%" tooltip="Ver más" numero="6")
             .h5.mb-2 Producto
-            br
+            p.mt-4
             p Bien tangible o intangible que se oferta en el mercado para satisfacer las necesidades, intereses o deseos de personas, familias o empresas.
 
 
-          div(x="42%" y="82%" tooltip="Ver más" numero="7")
+          div(x="42%" y="81%" tooltip="Ver más" numero="7")
             .h5.mb-2 Distribuidores
-            br
+            p.mt-4
             p Son empresas que comercializan un determinado producto o servicio y que por lo general pertenecen al sector terciario de la economía (finanzas, comercio, turismo, comunicaciones, ocio, espectáculos, cultura, servicios públicos, educación, sanidad).
     
         .row.justify-content-center.mt-5
@@ -254,68 +252,38 @@
 
     .row.mt-5
       p A continuación, se muestran los tipos de mercados clasificados según tipo de producto, según consumidor y tipo de demanda.
-    .row.justify-content-center
-        .col-lg-5.sm-4
-          b Los mercados se pueden clasificar de diferentes maneras teniendo en cuenta cada elemento de estos, permitiendo su comprensión así:
-      
-        
+      .row.justify-content-center
+          .col-lg-6
+            b Los mercados se pueden clasificar de diferentes maneras teniendo en cuenta cada elemento de estos, permitiendo su comprensión así:
+               
       
     .bg--img_03
-      .row.justify-content-center.mb-4
+      .row.justify-content-center
         .col-lg-4
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/Tema1/Acordion1.png", alt="alt").img400.m-auto
         .col-lg-8
          AcordionA(tipo="a" clase-tarjeta="tarjeta bgr-tarjeta-3").mt-5
           .row(titulo="Según el tipo de producto")
-            ol.lista-ol
-            li.fas.fa-check
-              p #[b Mercados de bienes y servicios:]
-                |  en los que se intercambian todo tipo de bienes y servicios ofrecidos por las empresas para satisfacer las necesidades de las personas, familias, asociaciones o de otras empresas.
-            li.fas.fa-check
-              span.text-bold  Mercados de factores: 
-              |   en el que se intercambian los factores de producción que configuran los insumos que se usan para producir otros bienes y servicios, así como el trabajo a cambio de remuneración.
-            li.fas.fa-check
-              span.text-bold Mercados financieros: 
-              | en el que se intercambian los créditos y servicios bancarios.
-            li.fas.fa-check
-              span.text-bold Mercados de divisas: 
-              | en el que se intercambian las monedas del mundo. Por ejemplo, el peso colombiano por dólares.
-            li.fas.fa-check
-              span.text-bold Mercados de capitales: 
-              | en el que se da la compra y venta de bonos, títulos y acciones..
-              
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de bienes y servicios:]  en los que se intercambian todo tipo de bienes y servicios ofrecidos por las empresas para satisfacer las necesidades de las personas, familias, asociaciones o de otras empresas.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de factores:] en el que se intercambian los factores de producción que configuran los insumos que se usan para producir otros bienes y servicios, así como el trabajo a cambio de remuneración.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados financieros:] en el que se intercambian los créditos y servicios bancarios.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de divisas:] en el que se intercambian las monedas del mundo. Por ejemplo, el peso colombiano por dólares. 
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de capitales:] en el que se da la compra y venta de bonos, títulos y acciones..  
               
           .row(titulo="Según el consumidor")
-            ol.lista-ol
-            li.fas.fa-check 
-            p #[b Mercados de consumo:]
-                |  dirigidos al consumidor final directamente.
-            li.fas.fa-check
-              p #[b Mercados industriales:]
-                |  dirigidos a las fábricas y empresas que producen algún otro bien.
-            li.fas.fa-check
-              p #[b Mercado objetivo:]
-                |  dirigidos a los bienes y servicios que requiere la administración pública.
-            li.fas.fa-check
-              p #[b Mercado actual:]
-                |  dirigidos a satisfacer una actividad particular principalmente en las empresas de servicios.              
-               
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de consumo:]  dirigidos al consumidor final directamente.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados industriales:] dirigidos a las fábricas y empresas que producen algún otro bien.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de organismos públicos:] dirigidos a los bienes y servicios que requiere la administración pública.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados institucionales: ] dirigidos a satisfacer una actividad particular principalmente en las empresas de servicios.
+            
           
           .row(titulo="Según el tipo de demanda)")
-            ol.lista-ol
-            li.fas.fa-check 
-            p #[b Mercado potencial:]
-                |   es el grupo de posibles compradores de un producto o servicio.
-            li.fas.fa-check
-              p #[b Mercado disponible:]
-                |   es el grupo de posibles compradores de un producto o servicio que además tienen la necesidad actual de él y los recursos para satisfacerla.
-            li.fas.fa-check
-              p #[b Mercado objetivo:]
-                |   es el grupo de personas que comparten una o más características y que por sus condiciones físicas, geográficas, sociales, culturales y/o económicas son de interés para una empresa en su labor comercial.
-            li.fas.fa-check
-              p #[b Mercado actual:]
-                |   es el grupo de personas que actualmente está consumiendo un producto o servicio.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercado potencial:]  es el grupo de posibles compradores de un producto o servicio.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercado disponible:] es el grupo de posibles compradores de un producto o servicio que además tienen la necesidad actual de él y los recursos para satisfacerla.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercado objetivo:] es el grupo de personas que comparten una o más características y que por sus condiciones físicas, geográficas, sociales, culturales y/o económicas son de interés para una empresa en su labor comercial.
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercado actual: ] es el grupo de personas que actualmente está consumiendo un producto o servicio.
+            
           
     separador
 
@@ -344,14 +312,14 @@
           .col-lg-10.col-sm-10
             p Para ampliar información revise el Anexo 1. Mercado objetivo y mercado meta, en donde se detallan necesidades, intereses o deseos de uno de los segmentos de mercados identificados y las características del mercado objetivo seleccionado, se exponen las fases de cómo realizar la segmentación de mercados y cómo generar una propuesta de valor.
 
-          .row.justify-content-around.align-items-center
-          .col-lg-6.col-sm-10
-            a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
-              .anexo__texto
-                b Anexo1.
-                p Mercado objetivo y mercado meta  
+            
+              .col-lg-6.col-sm-10
+                a.anexo.mb-4(:href="obtenerLink('downloads/Anexo_1.pdf')" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
+                  .anexo__texto
+                    b Anexo1.
+                    p Mercado objetivo y mercado meta  
 
 
 
@@ -414,13 +382,13 @@
             p.mt-5 Para ampliar información revise el Anexo 1. Mercado objetivo y mercado meta, en donde se detallan necesidades, intereses o deseos de uno de los segmentos de mercados identificados y las características del mercado objetivo seleccionado, se exponen las fases de cómo realizar la segmentación de mercados y cómo generar una propuesta de valor.
 
 
-          .row
-          .col-lg-6
-            a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-              .anexo__icono
-                img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
-              .anexo__texto
-              p Anexo2. Clientes, consumidores y usuarios  
+            .col-lg-6.col-sm-10
+                a.anexo.mb-4(:href="obtenerLink('downloads/Anexo_2_1.pdf')" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
+                  .anexo__texto
+                    b Anexo2.
+                    p Clientes, consumidores y usuarios
 
           separador    
 
@@ -448,15 +416,16 @@
             figure
               img(src='@/assets/curso/temas/Tema1/masinfo15.svg', alt='Texto que describa la imagen').img-tarjeta-linea-1
           .col-lg-10.col-sm-10
-            p.mt-5 Para ampliar información revise el Anexo 3. Plan de mercadeo, en donde se describen las definiciones de Mercadeo, mercadotecnia y marketing y Fases para la elaboración de un plan de mercadeo.
+            p Para ampliar información revise el Anexo 3. Plan de mercadeo, en donde se describen las definiciones de Mercadeo, mercadotecnia y marketing y Fases para la elaboración de un plan de mercadeo.
 
         
-        .col-lg-6
-          a.anexo.mb-4(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
-            .anexo__icono
-              img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
-            .anexo__texto
-              p Anexo3. Mercado objetivo y mercado meta  
+            .col-lg-6.col-sm-10
+                a.anexo.mb-4(:href="obtenerLink('downloads/Anexo_4.pdf')" target="_blank")
+                  .anexo__icono
+                    img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
+                  .anexo__texto
+                    b Anexo3.
+                    p Mercado objetivo y mercado meta 
 
 
     

@@ -3,13 +3,25 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    
+    .row.justify-content-center
+        .col-lg-8.sm-8
+          .titulo-sexto.color-acento-contenido
+            b Gestión de mercado de productos turísticos
+            p Síntesis: El mercado turístico
+
+
+        .col-lg-2
+          figure
+          img(src="@/assets/curso/temas/g4.svg" width='89,61' height='86,7')
+        
+    p.mt-4 A través del siguiente mapa conceptual se muestra la manera en la que se relacionan todos los temas del presente componente formativo, resaltando sus puntos de encuentro y los elementos que los integran. Cabe destacar que al sistema turístico le subyace la demanda y oferta, que a su vez hacen parte del mercado de este tipo. Por otro lado, el mercado, según su producto, se clasifica en mercados de capitales, de valores, financieros, de divisas y de bienes y servicios, siendo parte de este último el mercado turístico.
+        
 
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/Sintesis1.svg", alt="alt")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
           .anexo__icono
