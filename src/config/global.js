@@ -143,28 +143,80 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Mercado / Cliente, consumidor y usuario',
+      referencia:
+        'Soto, A. F., Tamayo, Y. D., & Almanza, C. A. (2018). Análisis de variables de segmentación de mercados. I+ D Revista de Investigaciones, 11(1), 78-92.',
+      tipo: 'Artículo Científico',
+      link:
+        '(PDF) Análisis de variables de segmentación de mercados (researchgate.net)',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Mercado / Plan de Mercadeo',
+      referencia:
+        'Machado Besantes, E. R. (2018). Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios.',
+      tipo: 'Libro',
+      link: '26_MA (uce.edu.ec)',
+    },
+
+    {
+      tema: 'Mercado / Plan de Mercadeo',
+      referencia:
+        'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). La evolución del marketing: una aproximación integral.',
+      tipo: 'Artículo científico',
+      link: '78-2019.pdf (unach.cl)',
+    },
+
+    {
+      tema: 'Mercado turístico/Elementos del Mercado Turístico',
+      referencia:
+        'Ministerio de Industria, Comercio y Turismo, 2018, Plan Sectorial de Turismo 2018 - 2022',
+      tipo: 'Plan sectorial',
+      link:
+        'https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/desarrollo-regional/plan-sectorial-de-turismo-2018-2022',
+    },
+
+    {
+      tema: 'Mercado turístico / Elementos del Mercado turístico',
+      referencia:
+        'MINCIT (2017) Definiciones y actividades prestadoras de servicios turísticos.',
+      tipo: 'Artículo del Ministerio de Comercio Industria y Turismo.',
+      link: 'AGENCIAS DE VIAJES Y TURISMO: (mincit.gov.co)',
+    },
+
+    {
+      tema: 'Mercado turístico / Elementos del Mercado Turístico',
+      referencia: 'MINCIT (2017) Resolución 543',
+      tipo:
+        'Resolución 543 de 2017 emitida por el Ministerio de Comercio, Industria y Turismo de Colombia como reglamento técnico para Parques de diversiones, atracciones o dispositivos de entretenimiento familiar',
+      link:
+        'Resolución-No-543-quot-Por-la-cual-se-expide-el-re.aspx (mincit.gov.co)',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Mercadeo:',
+      significado:
+        'conjunto de operaciones por las que ha de pasar una mercancía desde el productor al consumidor (RAE 2022).',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Mercado:',
+      significado:
+        'El mercado “es una institución económica en la cual se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, por lo tanto, el sistema de mercado se basa en el intercambio, lo que implica que para tener los bienes y servicios deseados se debe dar a la otra parte lo que ésta a la vez requiere o desea”. Según lo menciona Resico, M. F. (2019).',
+    },
+
+    {
+      termino: 'Producto :',
+      significado:
+        'Lo que el operador turístico y la institucionalidad pública están en capacidad de integrar y ensamblar para consolidar una oferta comerciable.  Rivera, Andrés (2018)  ',
+    },
+
+    {
+      termino: 'Turismo:',
+      significado:
+        'Es un fenómeno social, cultural y económico que supone el desplazamiento de personas a países o lugares fuera de su entorno habitual por motivos personales, profesionales o de negocios; esas personas se denominan viajeros (que pueden ser o bien turistas o excursionistas; residentes o no residentes). El turismo abarca sus actividades, algunas de las cuales suponen un gasto turístico. (OMT, 2022) ',
     },
   ],
+
   referencias: [
     {
       referencia:

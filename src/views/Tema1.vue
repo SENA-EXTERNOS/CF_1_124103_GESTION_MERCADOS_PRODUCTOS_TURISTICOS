@@ -11,11 +11,12 @@
     .row.mt-5.justify-content-center
       .col-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
+          .bloque-texto-g__img.testdisenio2(
             :style="{'background-image': `url(${require('@/assets/curso/temas/Tema1/carrito1.svg')})`}"
           )
-          .bloque-texto-g__texto.p-4
-            p.mb-0 A continuación, se presentan los elementos del mercado turístico en donde se detalla información acerca de la diferencia entre viajero, visitante, turista y excursionista, de igual forma se describen los tipos de prestadores turísticos como son las agencias de viajes, el concepto de qué es un producto turístico, a qué se refiere las tarifas, qué determina la demanda y la oferta turística. 
+          
+          .bloque-texto-g__texto.p-4.testdisenio
+            p continuación, se presentan los elementos del mercado turístico en donde se detalla información acerca de la diferencia entre viajero, visitante, turista y excursionista, de igual forma se describen los tipos de prestadores turísticos como son las agencias de viajes, el concepto de qué es un producto turístico, a qué se refiere las tarifas, qué determina la demanda y la oferta turística. 
 
 
       
@@ -278,7 +279,7 @@
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados institucionales: ] dirigidos a satisfacer una actividad particular principalmente en las empresas de servicios.
             
           
-          .row(titulo="Según el tipo de demanda)")
+          .row(titulo="Según el tipo de demanda")
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercado potencial:]  es el grupo de posibles compradores de un producto o servicio.
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercado disponible:] es el grupo de posibles compradores de un producto o servicio que además tienen la necesidad actual de él y los recursos para satisfacerla.
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercado objetivo:] es el grupo de personas que comparten una o más características y que por sus condiciones físicas, geográficas, sociales, culturales y/o económicas son de interés para una empresa en su labor comercial.
