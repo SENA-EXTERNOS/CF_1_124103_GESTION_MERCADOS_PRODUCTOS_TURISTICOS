@@ -6,18 +6,16 @@
       .titulo-principal__numero
         span 1
       h1 Mercado   
-
-     
+       
     .row.mt-5.justify-content-center
       .col-10
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img.testdisenio2(
+        .bloque-texto-g.color-primario.tarjetaimgcar.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img.carimg(
             :style="{'background-image': `url(${require('@/assets/curso/temas/Tema1/carrito1.svg')})`}"
           )
-          
-          .bloque-texto-g__texto.p-4.testdisenio
-            p continuación, se presentan los elementos del mercado turístico en donde se detalla información acerca de la diferencia entre viajero, visitante, turista y excursionista, de igual forma se describen los tipos de prestadores turísticos como son las agencias de viajes, el concepto de qué es un producto turístico, a qué se refiere las tarifas, qué determina la demanda y la oferta turística. 
-
+          .bloque-texto-g__texto2.p-4
+            p Mercado es una palabra que puede tomar diferentes significados dependiendo del entorno en el que se mueva el tema o del lente con el que se mire, obsérvese en la figura 1, varias frases de la cotidianidad y su relación con los diferentes significados de la palabra mercado:
+            p A continuación, se presentan cuatro frases y su relación con el significado del concepto de mercado, acompañado de imágenes que ambientan dicho concepto en coherencia con lo que cada frase representa.
 
       
     .tarjeta.bgr-slider.p-4.mt-5
