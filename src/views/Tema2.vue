@@ -34,20 +34,21 @@
        
     .row.justify-content-center.mt-5.mb-5
       .col-lg-10
-        .titulo-sexto.color-acento-contenido
+        .titulo-sexto.bgr-titulo
           p #[strong Figura 2.] Paralelo entre los elementos del mercado y los elementos del mercado turístico
         .row.justify-content-center
           .col-10.col-lg-6.mt-3
             figure
-              img(src='@/assets/curso/temas/tema2/img2.1.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen')
 
           .col-10.col-lg-6.mt-3
             figure
-              img(src='@/assets/curso/temas/tema2/img2.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/img2.1.svg', alt='Texto que describa la imagen')
 
         .tarjeta.tarjeta--gris.p-3.mt-3
           p Cada elemento del mercado tiene un equivalente en los elementos del mercado turístico. A través de esta figura se aprecia cual es el equivalente de cada uno.
 
+    separador
     
     #t_2_1.titulo-segundo.color-acento-contenido.mt-5
       h2 2.1  Elementos del mercado turístico
@@ -173,6 +174,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img11.svg', alt='Texto que describa la imagen')
 
+    separador
 
     #t_2_2.titulo-segundo.color-acento-contenido.mt-5
       h2 2.2  Sistema turístico
@@ -193,6 +195,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption   VIDEO
 
+    separador
 
     #t_2_3.titulo-segundo.color-acento-contenido.mt-5
       h2 2.3  Producto Turístico

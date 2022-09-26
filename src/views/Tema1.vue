@@ -14,8 +14,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/Tema1/carrito1.svg')})`}"
           )
           .bloque-texto-g__texto2.p-4
-            p Mercado es una palabra que puede tomar diferentes significados dependiendo del entorno en el que se mueva el tema o del lente con el que se mire, obsérvese en la figura 1, varias frases de la cotidianidad y su relación con los diferentes significados de la palabra mercado:
-            p A continuación, se presentan cuatro frases y su relación con el significado del concepto de mercado, acompañado de imágenes que ambientan dicho concepto en coherencia con lo que cada frase representa.
+            .col-10.col-lg-12
+              p Mercado es una palabra que puede tomar diferentes significados dependiendo del entorno en el que se mueva el tema o del lente con el que se mire, obsérvese en la figura 1, varias frases de la cotidianidad y su relación con los diferentes significados de la palabra mercado:
+              p A continuación, se presentan cuatro frases y su relación con el significado del concepto de mercado, acompañado de imágenes que ambientan dicho concepto en coherencia con lo que cada frase representa.
 
       
     .tarjeta.bgr-slider.p-4.mt-5
