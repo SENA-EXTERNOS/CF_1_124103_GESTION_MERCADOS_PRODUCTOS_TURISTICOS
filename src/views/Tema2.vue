@@ -25,7 +25,7 @@
               p.mb-0 De la misma manera en la que el mercado se define como una institución económica en la que se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, en el mercado turístico sucede lo mismo solo que las partes son en lugar de consumidores, viajeros y en lugar de productores o distribuidores prestadores de servicios turísticos y agencias de viajes.  Pero en esencia el concepto de mercado prevalece siendo su base el intercambio de bienes y servicios, en este caso, turísticos.
 
       
-      .col-10.col-lg-4
+      .col-8.col-lg-4
         figure
             img(src='@/assets/curso/temas/tema2/img1.svg', alt='Texto que describa la imagen')
 
@@ -55,7 +55,7 @@
         
 
     .row.mt-5.justify-content-center
-      .col-10
+      .col-11
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img3.svg')})`}"
@@ -73,10 +73,10 @@
           | Elementos del mercado turístico
 
 
-    .tarjeta.tarjeta--azul2.p-4
+    .tarjeta.tarjeta--azul2.p-3
       SlyderA(tipo="b")
         .row.justify-content-center
-          .col-10.col-lg-7.mt-5
+          .col-10.col-lg-8
             h4 Viajeros
            
             p Un viajero es toda persona que se desplaza entre dos lugares geográficos distintos por cualquier motivo y duración. (RIET. 2008, citado en OMT, (s.f.). Se clasifican de la siguiente manera:
@@ -86,12 +86,12 @@
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Turistas:]  un turista es aquel que viaja a un destino por un periodo de tiempo determinado y con la intención de volver a su lugar de procedencia, con la condición de pernoctar en el destino visitado.
             
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Excursionistas:]   un excursionista es aquel que viaja a un destino por un periodo de tiempo determinado y con la intención de volver a su lugar de procedencia, el excursionista es un visitante de día, este no pernocta en el destino.
-          .col-10.col-lg-5
+          .col-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img4.svg', alt='Texto que describa la imagen')
 
-        .row.justify-content-center.mt-5
-          .col-10.col-lg-7
+        .row.justify-content-center
+          .col-10.col-lg-8
             h4 Prestadores de servicios turísticos PST
             
             p Son los establecimientos que prestan algún servicio turístico (alojamiento, gastronomía, transporte)
@@ -100,12 +100,12 @@
            
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Establecimientos gastronómicos:] son aquellos establecimientos cuyo principal objetivo es la venta de alimentos y bebidas listas para el consumo, ubicados dentro del destino turístico e incluidos en el producto turístico.
           
-          .col-10.col-lg-5
+          .col-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img5.svg', alt='Texto que describa la imagen')
 
-        .row.justify-content-center.mt-5
-          .col-10.col-lg-7
+        .row.justify-content-center
+          .col-10.col-lg-8
             h4 Prestadores de servicios turísticos PST
             
             p Un viajero es toda persona que se desplaza entre dos lugares geográficos distintos por cualquier motivo y duración. (RIET. 2008, citado en OMT, (s.f.). Se clasifican de la siguiente manera:
@@ -114,12 +114,12 @@
             
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Parques temáticos:] son aquellos que se instalan en un sitio o ubicación de carácter permanente o no permanente, su principal característica se centra en el manejo de su entorno o ambientación que tiene un carácter muy definido. Son comunes el manejo de temas como sitios geográficos, la prehistoria, cuentos infantiles y épocas de la historia, entre otros. Estos parques pueden o no tener dentro de su oferta de entretenimiento atracciones de alto impacto, familiar e infantil o juegos de destreza.  (MINCIT 2017).
                       
-          .col-10.col-lg-5
+          .col-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img6.svg', alt='Texto que describa la imagen')
 
-        .row.justify-content-center.mt-5
-          .col-10.col-lg-7
+        .row.justify-content-center
+          .col-10.col-lg-8
             h4 Agencias de viajes
             
             p Son las empresas que se encargan de organizar, promover y vender planes turísticos nacionales o internacionales.
@@ -130,47 +130,47 @@
             
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Agencias de viajes operadoras:] las agencias de viaje operadoras son las que se encargan de operar en el destino los planes vendidos por las agencias de viaje minoristas, estas son agencias de viaje receptoras, es decir, son las que reciben al visitante en el destino.
           
-          .col-10.col-lg-5
+          .col-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img7.svg', alt='Texto que describa la imagen')
 
-        .row.justify-content-center.mt-5
-          .col-10.col-lg-7
+        .row.justify-content-center
+          .col-10.col-lg-8
             h4 Producto turístico
             
             p Según Rivera (2018) “El producto es lo que quiere ofrecer la comunidad anfitriona, pero es también lo que anhela encontrar el turismo vivencial. Es, a su vez, lo que los prestadores logísticos están en capacidad de ofrecer a través de sus servicios y es lo que el operador turístico y la institucionalidad pública están en capacidad de integrar y ensamblar para consolidar una oferta comerciable”. (p. 92)
             
-          .col-10.col-lg-5
+          .col-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img8.svg', alt='Texto que describa la imagen')
 
-        .row.justify-content-center.mt-5
-          .col-10.col-lg-7
+        .row.justify-content-center
+          .col-10.col-lg-8
             h4 Tarifa
             
             p Es el valor comercial definido para el producto o servicio turístico, teniendo en cuenta que cada uno puede tener varias tarifas dependiendo de la temporada (alta, media, baja), el tipo de viajero o turista (niños, militares, otros), los servicios incluidos y/o las políticas de reserva o cancelación establecidas por el prestador de servicios turísticos.
             
-          .col-10.col-lg-5
+          .col-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img9.svg', alt='Texto que describa la imagen')
 
-        .row.justify-content-center.mt-5
-          .col-10.col-lg-7
+        .row.justify-content-center
+          .col-10.col-lg-8
             h4 Demanda turística
             
             p La afluencia de visitantes que tiene el destino o el nivel de clientes que tiene prestador de servicios turísticos en un periodo determinado.
 
-          .col-10.col-lg-5
+          .col-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img10.svg', alt='Texto que describa la imagen')
 
-        .row.justify-content-center.mt-5
-          .col-10.col-lg-7
+        .row.justify-content-center
+          .col-10.col-lg-8
             h4 Oferta turística
             
             p Constituye el conjunto de productos y servicios que están activos y disponibles para su disfrute en un destino o área turística.
 
-          .col-10.col-lg-5
+          .col-8.col-lg-4
             figure
               img(src='@/assets/curso/temas/tema2/img11.svg', alt='Texto que describa la imagen')
 
@@ -201,7 +201,7 @@
       h2 2.3  Producto Turístico
 
     .row.mt-5.justify-content-center
-      .col-10.col-lg-7
+      .col-10.col-lg-8
         p El producto turístico es usualmente mirado únicamente desde la oferta de los establecimientos turísticos, sin embargo, en el sector turístico este concepto trasciende la mirada empresarial para ubicarse en la del destino.   En otros casos este concepto se suele confundir con otros, como el de recurso turístico, atractivo turístico, oferta turística y hasta patrimonio natural o cultural. Lo que sí es cierto es que éste los incluye.
 
         .bloque-texto-b.color-cajon.p-4
@@ -211,7 +211,7 @@
             i.fas.fa-quote-right
           p - Según Rivera, Andrés (2018, p. 92)
       
-      .col-10.col-lg-5
+      .col-10.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema2/img13.svg', alt='Texto que describa la imagen')
 
