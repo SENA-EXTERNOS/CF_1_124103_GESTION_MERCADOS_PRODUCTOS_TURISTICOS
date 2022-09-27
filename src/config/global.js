@@ -194,26 +194,61 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Mercadeo:',
+      termino: 'Mercadeo',
       significado:
         'conjunto de operaciones por las que ha de pasar una mercancía desde el productor al consumidor (RAE 2022).',
     },
     {
-      termino: 'Mercado:',
+      termino: 'Mercado',
       significado:
         'El mercado “es una institución económica en la cual se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, por lo tanto, el sistema de mercado se basa en el intercambio, lo que implica que para tener los bienes y servicios deseados se debe dar a la otra parte lo que ésta a la vez requiere o desea”. Según lo menciona Resico, M. F. (2019).',
     },
 
     {
-      termino: 'Producto :',
+      termino: 'Producto turístico ',
       significado:
-        'Lo que el operador turístico y la institucionalidad pública están en capacidad de integrar y ensamblar para consolidar una oferta comerciable.  Rivera, Andrés (2018)  ',
+        'es lo que quiere ofrecer la comunidad anfitriona, pero, también, lo que anhela encontrar el turista vivencial. También se define como aquello que los prestadores logísticos están en capacidad de ofrecer a través de sus servicios. Lo que el operador turístico y la institucionalidad pública están en capacidad de integrar y ensamblar para consolidar una oferta comerciable.  Rivera, Andrés (2018)  ',
     },
 
     {
-      termino: 'Turismo:',
+      termino: 'Turismo',
       significado:
         'Es un fenómeno social, cultural y económico que supone el desplazamiento de personas a países o lugares fuera de su entorno habitual por motivos personales, profesionales o de negocios; esas personas se denominan viajeros (que pueden ser o bien turistas o excursionistas; residentes o no residentes). El turismo abarca sus actividades, algunas de las cuales suponen un gasto turístico. (OMT, 2022) ',
+    },
+
+    {
+      termino: 'Comunidad anfitriona',
+      significado:
+        'Grupo de personas de la localidad que de manera autónoma se organiza para gestionar la invitación a los turistas a su territorio para acogerlos y atenderlos durante su estancia a cambio de una retribución económica social ',
+    },
+
+    {
+      termino: 'Tarifa',
+      significado:
+        'Es el valor comercial definido para el producto o servicio turístico, teniendo en cuenta que cada uno puede tener varias tarifas dependiendo de la temporada (alta, media, baja), el tipo de viajero o turista (niños, militares, otros), los servicios incluidos y/o las políticas de reserva o cancelación establecidas por el prestador de servicios turísticos',
+    },
+
+    {
+      termino: 'Prestadores de servicios turísticos (PST)',
+      significado:
+        'Son los establecimientos que prestan algún servicio turístico (alojamiento, gastronomía, transporte)',
+    },
+
+    {
+      termino: 'Oferta',
+      significado:
+        'Cantidad de un producto o servicio que se dispone para la venta en un periodo determinado, es decir, número de productos o servicios que están disponibles para la venta en una hora, día, mes o año determinado ',
+    },
+    {
+      termino: 'Demanda',
+      significado:
+        'Cantidad de un producto o servicio específico que las personas quieren tener en un horizonte de tiempo determinado, es decir, la demanda, constituye el número de productos o servicios que en una hora, día, mes o año determinado se ha calculado que los consumidores están dispuestos a adquirir',
+    },
+
+    {
+      termino: 'Visitante',
+      significado:
+        'Un visitante es aquel que viaja a un destino por un periodo de tiempo determinado y con la intención de volver a su lugar de procedencia, dependiendo del tiempo de estadía se divide en: turista y excursionista.',
     },
   ],
 

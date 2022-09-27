@@ -25,13 +25,13 @@
           .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
-                i.lista-ul__vineta
-                b Frase:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Frase:                                 
               p Una tradicional empresa de telecomunicaciones se encuentra buscando nuevos mercados.
               p.mt-5
               li 
-                i.lista-ul__vineta
-                b Relación con el significado:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Relación con el significado:                                 
               p Esta frase se refiere a mercados como grupos de consumidores o conjuntos de personas que, por sus características, son de interés para una empresa.
          
        
@@ -43,13 +43,13 @@
           .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
-                i.lista-ul__vineta
-                b Frase:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Frase:                                 
               p ¿Sanciones económicas a Rusia afectarían el mercado de flores en Colombia?
               p.mt-4 
               li 
-                i.lista-ul__vineta
-                b Relación con el significado:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Relación con el significado:                                 
               p Esta pregunta, se refiere al mercado como un sector de la economía. Como también se puede hablar del sector turístico, de valores o automotriz.
 
 
@@ -63,13 +63,13 @@
           .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
-                i.lista-ul__vineta
-                b Frase:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Frase:                                 
               p La mayoría de las pequeñas empresas no permanecen en el mercado por más de cinco años. 
               p.mt-4 
               li 
-                i.lista-ul__vineta
-                b Relación con el significado:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Relación con el significado:                                 
               p Esta afirmación, se refiere al mercado como un espacio que no es solo físico, donde convergen la oferta y la demanda. Como fruto de su relación se establecen los precios.
 
           .col-md-4
@@ -80,13 +80,13 @@
           .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
-                i.lista-ul__vineta
-                b Frase:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Frase:                                 
               p Los miércoles habrá mercado campesino en mi barrio.
               p.mt-4  
               li 
-                i.lista-ul__vineta
-                b Relación con el significado:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Relación con el significado:                                 
               p Esta expresión habla de la actividad económica de venta de productos normalmente de la canasta familiar.
 
 
@@ -98,13 +98,13 @@
           .col-md-8.mb-4.mb-md-0
             ul.lista-ul
               li 
-                i.lista-ul__vineta
-                b Frase:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Frase:                                 
               p El precio del mercado que hicimos hoy fue como lo tenía presupuestado..
               .mt-4 
               li 
-                i.lista-ul__vineta
-                b Relación con el significado:                                 
+                i.lista-ul__vineta.point
+                b.mt-2 Relación con el significado:                                 
               p Esta frase se refiere al mercado como el resultado de la compra de artículos de la canasta familiar.
 
 
@@ -378,7 +378,7 @@
             figure
               img(src='@/assets/curso/temas/Tema1/masinfo.svg', alt='Texto que describa la imagen').img-tarjeta-linea-1
           .col-lg-10
-            p Para ampliar información revise el Anexo 1. Mercado objetivo y mercado meta, en donde se detallan necesidades, intereses o deseos de uno de los segmentos de mercados identificados y las características del mercado objetivo seleccionado, se exponen las fases de cómo realizar la segmentación de mercados y cómo generar una propuesta de valor.
+            p Para ampliar información revise el Anexo 2. Clientes, consumidores y usuarios, en donde se describe el concepto de forma amplía, sus rasgos diferenciadores y se ilustran con ejemplos ejemplos de clientes como persona natural y como persona jurídica, ejemplos de consumidores y usuarios de servicios.
 
 
             .col-lg-6.col-sm-10
@@ -419,7 +419,7 @@
 
         
             .col-lg-6.col-sm-10
-                a.anexo.mb-4(:href="obtenerLink('downloads/Anexo_4.pdf')" target="_blank")
+                a.anexo.mb-4(:href="obtenerLink('downloads/Anexo_3.pdf')" target="_blank")
                   .anexo__icono
                     img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
                   .anexo__texto

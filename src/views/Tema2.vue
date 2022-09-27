@@ -70,7 +70,7 @@
         li 
           .lista-ol--cuadro__vineta.color-primario
             span 
-          | Elementos del mercado turístico
+          b Elementos del mercado turístico
 
 
     .tarjeta.tarjeta--azul2.p-3
@@ -254,7 +254,7 @@
           p Para ampliar información sobre el producto turístico y sus componentes, se puede ver el documento #[b Anexo 2. Producto turístico.]    
 
           .col-8.col-lg-4
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
