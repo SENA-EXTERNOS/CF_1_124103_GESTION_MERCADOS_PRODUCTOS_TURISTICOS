@@ -15,102 +15,103 @@
           )
           .bloque-texto-g__texto2.p-4
             .col-10.col-lg-12
-              p Mercado es una palabra que puede tomar diferentes significados dependiendo del entorno en el que se mueva el tema o del lente con el que se mire, obsérvese en la figura 1, varias frases de la cotidianidad y su relación con los diferentes significados de la palabra mercado:
+              p Mercado es una palabra que puede tomar diferentes significados dependiendo del entorno en el que se mueva el tema o del lente con el que se mire, obsérvese en la figura 1, varias frases de la cotidianidad y su relación con los diferentes significados de la palabra mercado.
               p A continuación, se presentan cuatro frases y su relación con el significado del concepto de mercado, acompañado de imágenes que ambientan dicho concepto en coherencia con lo que cada frase representa.
 
-      
-    .tarjeta.bgr-slider.p-4.mt-5
-      SlyderA(tipo="b")
-        .row
-          .col-md-8.mb-4.mb-md-0
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Frase:                                 
-              p Una tradicional empresa de telecomunicaciones se encuentra buscando nuevos mercados.
-              p.mt-5
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Relación con el significado:                                 
-              p Esta frase se refiere a mercados como grupos de consumidores o conjuntos de personas que, por sus características, son de interés para una empresa.
-         
-       
-          .col-md-4
-            figure
-              img(src='@/assets/curso/temas/Tema1/slider1.png', alt='Texto que describa la imagen')
-              
-        .row
-          .col-md-8.mb-4.mb-md-0
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Frase:                                 
-              p ¿Sanciones económicas a Rusia afectarían el mercado de flores en Colombia?
-              p.mt-4 
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Relación con el significado:                                 
-              p Esta pregunta, se refiere al mercado como un sector de la economía. Como también se puede hablar del sector turístico, de valores o automotriz.
+    .row.mt-5.justify-content-center
+      .col-12
+        .tarjeta.bgr-slider.p-4.mt-5
+          SlyderA(tipo="b")
+            .row
+              .col-md-7.mb-4.mb-md-0
+                ul.lista-ul
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Frase                                 
+                  p Una tradicional empresa de telecomunicaciones se encuentra buscando nuevos mercados.
+                  p.mt-5
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Relación con el significado                                 
+                  p Esta frase se refiere a mercados como grupos de consumidores o conjuntos de personas que, por sus características, son de interés para una empresa.
+            
+          
+              .col-md-5
+                figure
+                  img(src='@/assets/curso/temas/Tema1/slider1.png', alt='Texto que describa la imagen')
+                  
+            .row
+              .col-md-7.mb-4.mb-md-0
+                ul.lista-ul
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Frase                                 
+                  p ¿Sanciones económicas a Rusia afectarían el mercado de flores en Colombia?
+                  p.mt-4 
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Relación con el significado                                 
+                  p Esta pregunta, se refiere al mercado como un sector de la economía. Como también se puede hablar del sector turístico, de valores o automotriz.
 
 
 
-          .col-md-4
-            figure
-              img(src='@/assets/curso/temas/Tema1/slider2.png', alt='Texto que describa la imagen')
+              .col-md-5
+                figure
+                  img(src='@/assets/curso/temas/Tema1/slider2.png', alt='Texto que describa la imagen')
 
 
-        .row
-          .col-md-8.mb-4.mb-md-0
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Frase:                                 
-              p La mayoría de las pequeñas empresas no permanecen en el mercado por más de cinco años. 
-              p.mt-4 
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Relación con el significado:                                 
-              p Esta afirmación, se refiere al mercado como un espacio que no es solo físico, donde convergen la oferta y la demanda. Como fruto de su relación se establecen los precios.
+            .row
+              .col-md-7.mb-4.mb-md-0
+                ul.lista-ul
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Frase                                 
+                  p La mayoría de las pequeñas empresas no permanecen en el mercado por más de cinco años. 
+                  p.mt-4 
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Relación con el significado                                 
+                  p Esta afirmación, se refiere al mercado como un espacio que no es solo físico, donde convergen la oferta y la demanda. Como fruto de su relación se establecen los precios.
 
-          .col-md-4
-            figure
-              img(src='@/assets/curso/temas/Tema1/slider3.png', alt='Texto que describa la imagen')
+              .col-md-5
+                figure
+                  img(src='@/assets/curso/temas/Tema1/slider3.png', alt='Texto que describa la imagen')
 
-        .row
-          .col-md-8.mb-4.mb-md-0
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Frase:                                 
-              p Los miércoles habrá mercado campesino en mi barrio.
-              p.mt-4  
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Relación con el significado:                                 
-              p Esta expresión habla de la actividad económica de venta de productos normalmente de la canasta familiar.
-
-
-          .col-md-4
-            figure
-              img(src='@/assets/curso/temas/Tema1/slider4.png', alt='Texto que describa la imagen')
-
-        .row
-          .col-md-8.mb-4.mb-md-0
-            ul.lista-ul
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Frase:                                 
-              p El precio del mercado que hicimos hoy fue como lo tenía presupuestado..
-              .mt-4 
-              li 
-                i.lista-ul__vineta.point
-                b.mt-2 Relación con el significado:                                 
-              p Esta frase se refiere al mercado como el resultado de la compra de artículos de la canasta familiar.
+            .row
+              .col-md-7.mb-4.mb-md-0
+                ul.lista-ul
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Frase                                 
+                  p Los miércoles habrá mercado campesino en mi barrio.
+                  p.mt-4  
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Relación con el significado                                
+                  p Esta expresión habla de la actividad económica de venta de productos normalmente de la canasta familiar.
 
 
-          .col-md-4
-            figure
-              img(src='@/assets/curso/temas/Tema1/slider5.png', alt='Texto que describa la imagen')
+              .col-md-5
+                figure
+                  img(src='@/assets/curso/temas/Tema1/slider4.png', alt='Texto que describa la imagen')
+
+            .row
+              .col-md-7.mb-4.mb-md-0
+                ul.lista-ul
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Frase                                 
+                  p El precio del mercado que hicimos hoy fue como lo tenía presupuestado.
+                  .mt-4 
+                  li 
+                    i.lista-ul__vineta.point
+                    b.mt-2 Relación con el significado                                 
+                  p Esta frase se refiere al mercado como el resultado de la compra de artículos de la canasta familiar.
+
+
+              .col-md-5
+                figure
+                  img(src='@/assets/curso/temas/Tema1/slider5.png', alt='Texto que describa la imagen')
 
     .row.mt-5       
     .row.justify-content-around.align-items-center
@@ -119,7 +120,7 @@
           img(src='@/assets/curso/temas/Tema1/mercado.png' alt='Texto que describa la imagen' width='505px' height='430px')
            
         .col-lg-7.sm-8
-          p.mt-2 El mercado es el espacio, físico o virtual donde se produce el intercambio de bienes y servicios. Todas las interacciones que surgen a partir de este intercambio, por lo tanto se mueve alrededor de las actividades económicas fundamentales, que son producción, distribución y consumo, lo que deja ver que sus actores principales son los consumidores, productores y distribuidores de dichos bienes y servicios, quienes en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado se encuentran el precio, el producto y el proceso de intercambio.
+          p.mt-2 El mercado es el espacio, físico o virtual donde se produce el intercambio de bienes y servicios. Todas las interacciones que surgen a partir de este intercambio, por lo tanto, se mueve alrededor de las actividades económicas fundamentales, que son producción, distribución y consumo, lo que deja ver que sus actores principales son los consumidores, productores y distribuidores de dichos bienes y servicios, quienes en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado se encuentran el precio, el producto y el proceso de intercambio.
                          
           .row
           .col-lg-12.mb-5.mb-lg-0
@@ -128,7 +129,7 @@
                 i.fas.fa-quote-left
                 h3.mb-5 Introducción a la economía social de mercado’ “El mercado es una institución económica en la cual se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, por lo tanto, el sistema de mercado se basa en el intercambio, lo que implica que para tener los bienes y servicios deseados se debe dar a la otra parte lo que ésta a la vez requiere o desea.
                 i.fas.fa-quote-right
-              p.texto-img.mb4 -Según lo menciona Resico, M. F. (2019. p.67) en su libro.
+              p.texto-img.mb4 -Según lo menciona Resico, M. F. (2019. p.67) en su libro ‘Introducción a la economía’.
               
         separador
       
@@ -149,7 +150,9 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/Tema1/elemento.png', alt='Texto que describa la imagen')
-              figcaption Nota: Adaptado de Elementos del mercado, de Principios e instrumentos
+              figcaption Nota: Adaptado de 
+                i Elementos del mercado, 
+                | de Principios e instrumentos
 
           div(x="17%" y="23%" tooltip="Ver más" numero="1")
             h5 Oferta
@@ -214,24 +217,26 @@
 
     .row.mt-4
     TabsC.color-acento-contenido
-      .py-3.py-md-4(titulo="<b>Ejemplo 1: Consumo de tapabocas</b>")
+      .py-3.py-md-4(titulo="<b>Ejemplo 1: consumo de tapabocas</b>")
         .row
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/Tema1/pestaña1.svg', alt='Texto que describa la imagen' width='440px' height='255px' )         
-          .col-md-6
-            h4 Consumo de tapabocas
-            p En el año 2020 durante la emergencia sanitaria debido al COVID 19, el consumo por el uso de tapabocas se incrementó de manera desproporcionada, triplicando su precio lo que generó escasez de este producto, desencadenando una serie de situaciones en la producción, distribución y venta de este, que llevó  al incremento de su precio donde, una caja, por 20 unidades, de tapabocas antivirus de la marca Apolo N95 se encontraba  hasta en 445.000 pesos colombianos en Internet según publicación de El Pulzo en 2020.    
-      .py-3.py-md-4(titulo="<b>Ejemplo 2: Tendencia alimentación saludable</b>")
+          .col-md-6.mt-2
+            
+            p En el año 2020, durante la emergencia sanitaria debido al COVID-19, el consumo por el uso de tapabocas se incrementó de manera desproporcionada, triplicando su precio, lo que generó escasez de este producto, desencadenando una serie de situaciones en la producción, distribución y venta de este, que llevó  al incremento de su precio donde, una caja, por 20 unidades, de tapabocas antivirus de la marca Apolo N95 se encontraba  hasta en 445.000 pesos colombianos en Internet según publicación de El Pulzo en 2020.    
+      .py-3.py-md-4(titulo="<b>Ejemplo 2: tendencia alimentación saludable</b>")
         .row
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/Tema1/pestaña2.svg' alt='Texto que describa la imagen' width='440px' height='255px')            
           .col-md-6
-            h4 Tendencia alimentación saludable
+            
             p La tendencia del 
               i fitness 
-              | y de alimentación saludable ha popularizado el consumo de algunos alimentos en los últimos años, como es el caso del aguacate. En el año 2019 como no lo cuenta la BBC News, se dio el ‘boom global del aguacate’ con un incremento de su consumo y a su vez una escasez de este, lo que ocasionó un alza en el precio de este.
+              | y de alimentación sa3ludable ha popularizado el consumo de algunos alimentos en los últimos años, como es el caso del aguacate. En el año 2019, como no lo cuenta la BBC News, se dio el ‘
+              i boom 
+              | global del aguacate’ con un incremento de su consumo y a su vez una escasez de este, lo que ocasionó un alza en el precio de este.
            
     .row.justify-content-center.mt-5
       .col-lg-10.sm-8
@@ -242,7 +247,7 @@
                 img(src='@/assets/curso/temas/Tema1/analisis.svg' alt='Texto que describa la imagen' width='80px' height='77,3px')  
             .col-lg-10
               p #[b Análisis de los ejemplos]
-              p Comportamiento demanda y oferta: El aumento de la demanda de un producto, es una variación dentro de las interacciones cotidianas de dos de los elementos del mercado (consumidor vs producto). Dicha variación movilizó a los demás elementos del mercado, generando disminución de la oferta por desabastecimiento o escasez, e incremento del precio por que los distribuidores que tengan estos productos en inventario pueden venderlos a un mayor valor, debido a que se cotizan a causa de su difícil consecución.
+              p Comportamiento, demanda y oferta: el aumento de la demanda de un producto, es una variación dentro de las interacciones cotidianas de dos de los elementos del mercado (consumidor vs. producto). Dicha variación movilizó a los demás elementos del mercado, generando disminución de la oferta por desabastecimiento o escasez, e incremento del precio porque los distribuidores que tengan estos productos en inventario pueden venderlos a un mayor valor, debido a que se cotizan a causa de su difícil consecución.
 
       separador
     #t_1_2
@@ -269,7 +274,7 @@
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de factores:] en el que se intercambian los factores de producción que configuran los insumos que se usan para producir otros bienes y servicios, así como el trabajo a cambio de remuneración.
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados financieros:] en el que se intercambian los créditos y servicios bancarios.
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de divisas:] en el que se intercambian las monedas del mundo. Por ejemplo, el peso colombiano por dólares. 
-            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de capitales:] en el que se da la compra y venta de bonos, títulos y acciones..  
+            p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de capitales:] en el que se da la compra y venta de bonos, títulos y acciones. 
               
           .row(titulo="Según el consumidor")
             p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Mercados de consumo:]  dirigidos al consumidor final directamente.
@@ -311,7 +316,9 @@
             figure
               img(src='@/assets/curso/temas/Tema1/Tema132.svg', alt='Texto que describa la imagen').img-tarjeta-linea-1
           .col-lg-10.col-sm-10
-            p Para ampliar información revise el Anexo 1. Mercado objetivo y mercado meta, en donde se detallan necesidades, intereses o deseos de uno de los segmentos de mercados identificados y las características del mercado objetivo seleccionado, se exponen las fases de cómo realizar la segmentación de mercados y cómo generar una propuesta de valor.
+              | Para ampliar información revise el 
+              b Anexo 1. Mercado objetivo y mercado meta, 
+              | en donde se detallan necesidades, intereses o deseos de uno de los segmentos de mercados identificados y las características del mercado objetivo seleccionado, se exponen las fases de cómo realizar la segmentación de mercados y cómo generar una propuesta de valor.
 
             
               .col-lg-6.col-sm-10
@@ -327,7 +334,7 @@
     #t_1_4
 
     .titulo-segundo.color-acento-contenido
-      h2 1.4  Mercado objetivo y mercado meta
+      h2 1.4  Clientes, consumidores y usuarios
 
     .row.justify-content-around.align-items-center
       .row.justify-content-around.align-items-center
@@ -347,7 +354,7 @@
             img(src='@/assets/curso/temas/Tema1/cliente.svg' width='110px' height='110px')
             
           .col-xl-10
-            h4 El cliente
+           
             p Es la persona natural o jurídica que realiza una transacción monetaria a cambio de un producto o servicio que puede ser para su uso personal o para el de otras personas, al igual que puede ser el insumo para la fabricación de otros bienes y servicios o para una actividad empresarial.
        
       .tarjeta.color-tarjetacliente.p-4(titulo="El consumidor")
@@ -358,8 +365,8 @@
               img(src='@/assets/curso/temas/Tema1/Consumidor.svg' width='110px' height='110px')
             
           .col-xl-10
-            h4 El consumidor
-            p Es la persona natural que consume o dicho en otras palabras, es quien adquiere a través de una transacción monetaria productos y servicios para satisfacer una necesidad personal sin ningún tipo de ánimo de lucro.
+            
+            p Es la persona natural que consume o dicho en otras palabras, es quien adquiere a través de una transacción monetaria, productos y servicios para satisfacer una necesidad personal sin ningún tipo de ánimo de lucro.
             
       .tarjeta.color-tarjetacliente.p-4(titulo="El usuario")
      
@@ -369,7 +376,7 @@
               img(src='@/assets/curso/temas/Tema1/usuario.svg' width='110px' height='110px')
             
           .col-xl-10
-            h4 El usuario
+            
             p Es la persona natural que utiliza o disfruta de un servicio para su uso personal, este puede ser ofrecido por una empresa pública o privada. 
     
         
@@ -378,7 +385,9 @@
             figure
               img(src='@/assets/curso/temas/Tema1/masinfo.svg', alt='Texto que describa la imagen').img-tarjeta-linea-1
           .col-lg-10
-            p Para ampliar información revise el Anexo 2. Clientes, consumidores y usuarios, en donde se describe el concepto de forma amplía, sus rasgos diferenciadores y se ilustran con ejemplos ejemplos de clientes como persona natural y como persona jurídica, ejemplos de consumidores y usuarios de servicios.
+            p Para ampliar información, revise el 
+              b Anexo 2. Clientes, consumidores y usuarios, 
+              | en donde se describe el concepto de forma amplía, sus rasgos diferenciadores y se ilustran con ejemplos ejemplos de clientes como persona natural y como persona jurídica, ejemplos de consumidores y usuarios de servicios.
 
 
             .col-lg-6.col-sm-10
@@ -400,11 +409,11 @@
     .row.justify-content-around.align-items-center.mt-5.mb-5
       .row.justify-content-around.align-items-center
         .col-lg-8.mb-5
-          p Las empresas en su direccionamiento estratégico cuentan con diferentes objetivos organizacionales que apuntan al logro de la visión empresarial que han determinado en un horizonte de tiempo, por lo general de 5 años o más.  Estos objetivos marcan una ruta clara de acción que normalmente se traduce en planes y programas específicos para las diferentes áreas de la empresa, permitiendo así que cada un aporte desde su operación a la consecución de los objetivos marcados.
+          p Las empresas en su direccionamiento estratégico cuentan con diferentes objetivos organizacionales que apuntan al logro de la visión empresarial que han determinado en un horizonte de tiempo, por lo general, de 5 años o más.  Estos objetivos marcan una ruta clara de acción que normalmente se traduce en planes y programas específicos para las diferentes áreas de la empresa, permitiendo así que cada un aporte desde su operación a la consecución de los objetivos marcados.
           
           .col-lg-12.sm-8
             .cajon.color-acento-contenido.p-4.mb-4     
-                p En términos comerciales las empresas buscan posicionamiento y reconocimiento de su marca, la apertura de nuevos mercados, la llegada de nuevos clientes, la fidelización de los clientes actuales y el incremento de las ventas y para lograrlo requieren hacerlo de manera planificada y organizada. En virtud de lo anterior se hace necesario contar con un plan de mercadeo.
+                p En términos comerciales, las empresas buscan posicionamiento y reconocimiento de su marca, la apertura de nuevos mercados, la llegada de nuevos clientes, la fidelización de los clientes actuales y el incremento de las ventas y para lograrlo requieren hacerlo de manera planificada y organizada. En virtud de lo anterior se hace necesario contar con un plan de mercadeo.
   
         .col-lg-4
           figure
@@ -415,7 +424,11 @@
             figure
               img(src='@/assets/curso/temas/Tema1/masinfo15.svg', alt='Texto que describa la imagen').img-tarjeta-linea-1
           .col-lg-10.col-sm-10
-            p Para ampliar información revise el Anexo 3. Plan de mercadeo, en donde se describen las definiciones de Mercadeo, mercadotecnia y marketing y Fases para la elaboración de un plan de mercadeo.
+            p Para ampliar información revise el 
+              b Anexo 3. Plan de mercadeo, 
+              | en donde se describen las definiciones de Mercadeo, mercadotecnia y 
+              i marketing 
+              | y Fases para la elaboración de un plan de mercadeo.
 
         
             .col-lg-6.col-sm-10
