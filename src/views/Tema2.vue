@@ -210,7 +210,7 @@
             i.fas.fa-quote-left
             h4.mb-0 El producto es lo que quiere ofrecer la comunidad anfitriona, pero es también lo que anhela encontrar el turista vivencial. Es, a su vez, lo que los prestadores logísticos están en capacidad de ofrecer a través de sus servicios y es lo que el operador turístico y la institucionalidad pública están en capacidad de integrar y ensamblar para consolidar una oferta comerciable.
             i.fas.fa-quote-right
-          p - Según Rivera, Andrés (2018, p. 92)
+            p - Según Rivera, Andrés (2018, p. 92)
       
       .col-10.col-lg-4
         figure
@@ -254,14 +254,14 @@
         .cajon.color-acento-botones.p-4
           p Para ampliar información sobre el producto turístico y sus componentes, se puede ver el documento #[b Anexo 4. Producto turístico.]    
 
-          .col-8.col-lg-4
+          .col-9.col-lg-4
             a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p Anexo 4. 
+                b Anexo 4. 
                 p Producto turístico
-    
+      
     .row.mt-4.mb-5
       p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo, para ello diríjase al menú principal en donde encontrará la síntesis, la actividad didáctica, material complementario, entre otros.
 

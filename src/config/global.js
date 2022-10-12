@@ -147,15 +147,15 @@ export default {
       referencia:
         'Soto, A. F., Tamayo, Y. D., & Almanza, C. A. (2018). Análisis de variables de segmentación de mercados. I+ D Revista de Investigaciones, 11(1), 78-92.',
       tipo: 'Artículo Científico',
-      link:
-        '(PDF) Análisis de variables de segmentación de mercados (researchgate.net)',
+      link: '/downloads/Análisis de variables de segmentación de mercados.pdf',
     },
     {
       tema: 'Mercado / Plan de Mercadeo',
       referencia:
         'Machado Besantes, E. R. (2018). Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios.',
       tipo: 'Libro',
-      link: '26_MA (uce.edu.ec)',
+      link:
+        '/downloads/Guía metodológica para el desarrollo del plan de marketing en los negocios.pdf',
     },
 
     {
@@ -163,7 +163,8 @@ export default {
       referencia:
         'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). La evolución del marketing: una aproximación integral.',
       tipo: 'Artículo científico',
-      link: '78-2019.pdf (unach.cl)',
+      link:
+        '/downloads/La Evolución del Marketing una aproximación integral.pdf',
     },
 
     {
@@ -180,7 +181,7 @@ export default {
       referencia:
         'MINCIT (2017) Definiciones y actividades prestadoras de servicios turísticos.',
       tipo: 'Artículo del Ministerio de Comercio Industria y Turismo.',
-      link: 'AGENCIAS DE VIAJES Y TURISMO: (mincit.gov.co)',
+      link: '/downloads/Prestadores-de-servicios-turisticos-–-Definiciones.pdf',
     },
 
     {
@@ -188,8 +189,7 @@ export default {
       referencia: 'MINCIT (2017) Resolución 543',
       tipo:
         'Resolución 543 de 2017 emitida por el Ministerio de Comercio, Industria y Turismo de Colombia como reglamento técnico para Parques de diversiones, atracciones o dispositivos de entretenimiento familiar',
-      link:
-        'Resolución-No-543-quot-Por-la-cual-se-expide-el-re.aspx (mincit.gov.co)',
+      link: '/downloads/Plan Sectorial de Turismo 2018 2022.pdf',
     },
   ],
   glosario: [
@@ -256,7 +256,8 @@ export default {
     {
       referencia:
         'American Marketing Association. (s.f.). Definitions of Marketing.',
-      link: 'What is Marketing? — The Definition of Marketing — AMA',
+      link:
+        'https://www.ama.org/the-definition-of-marketing-what-is-marketing/',
     },
     {
       referencia:
@@ -268,15 +269,14 @@ export default {
       referencia:
         'BBC News. (7 de agosto de 2019). Por qué se ha disparado el precio del aguacate y hasta cuándo seguirá subiendo. ',
 
-      link:
-        'Por qué se ha disparado el precio del aguacate y hasta cuándo seguirá subiendo - BBC News Mundo',
+      link: 'https://www.bbc.com/mundo/noticias-49209380',
     },
     {
       referencia:
         'Centro Educacional Fernando de Aragón (2020). Módulo: procesos administrativos nm3.',
 
       link:
-        '3°-MEDIO-GUIA-6-CLASSROOM-PROCESOS-ADMINISTRATIVOS.pdf (colegiofernandodearagon.cl)',
+        'https://colegiofernandodearagon.cl/wp-content/uploads/2020/10/3%C2%B0-MEDIO-GUIA-6-CLASSROOM-PROCESOS-ADMINISTRATIVOS.pdf)',
     },
     {
       referencia:
@@ -295,7 +295,8 @@ export default {
       referencia:
         'El Pulzo. (6 de marzo de 2020). Se triplicó el precio de los tapabocas por la llegada del coronavirus a Colombia. ',
 
-      link: 'Se triplica el precio de los tapabocas en Colombia (pulzo.com)',
+      link:
+        'https://www.pulzo.com/economia/triplica-precio-tapabocas-colombia-PP857293',
     },
     {
       referencia:
@@ -313,52 +314,56 @@ export default {
 
     {
       referencia:
-        'Machado Besantes, E. R. (2018). Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios. 26_MA (uce.edu.ec)',
+        'Machado Besantes, E. R. (2018). Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios.',
 
-      link: '',
+      link:
+        '/downloads/Guía metodológica para el desarrollo del plan de marketing en los negocios.pdf',
     },
 
     {
       referencia:
         'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). La evolución del marketing: una aproximación integral. 78-2019.pdf (unach.cl)',
 
-      link: '',
+      link:
+        '/downloads/La Evolución del Marketing una aproximación integral.pdf',
     },
 
     {
       referencia:
         'MINCIT (2017). Definiciones y actividades prestadoras de servicios turísticos. ',
 
-      link: 'AGENCIAS DE VIAJES Y TURISMO: (mincit.gov.co)',
+      link:
+        'https://www.mincit.gov.co/getattachment/f7c53ff0-36c2-435b-884c-bb5e847f8866/Prestadores-de-servicios-turisticos-%E2%80%93-Definiciones.aspx',
     },
 
     {
       referencia:
         'MINCIT (2021). Política pública de infraestructura turística',
 
-      link: ' 09-07-21-politicavmt2020-baja-esp.aspx (mincit.gov.co)',
+      link:
+        ' https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/politicas-del-sector-turismo/politica-de-infraestructura-turistica/09-07-21-politicavmt2020-baja-esp.aspx',
     },
 
     {
       referencia:
         'Organización Mundial del Turismo. (s.f.). Glosario de términos de turismo. ',
 
-      link: ' Glosario de términos de turismo | OMT (unwto.org)',
+      link: ' https://www.unwto.org/es/glosario-terminos-turisticos',
     },
 
     {
       referencia:
         'Organización Mundial del Turismo. (s.f.). EL TURISMO MÁS DE CERCA: MEDICIÓN Y ANÁLISIS SUBNACIONAL — PROYECTO CONJUNTO INROUTE-OMT',
 
-      link:
-        'El turismo más de cerca: medición y análisis subnacional — proyecto conjunto INRouTe-OMT — | OMT (unwto.org)',
+      link: 'https://www.unwto.org/es/project/inroute',
     },
 
     {
       referencia:
         'Resico, M. F. (2019). Introducción a la economía social de mercado. Konrad Adenauer Stiftung. get_file (kas.de)',
 
-      link: '',
+      link:
+        'https://www.kas.de/c/document_library/get_file?uuid=22412104-f255-886e-178f-8b32bf5bce06&groupId=252038',
     },
 
     {

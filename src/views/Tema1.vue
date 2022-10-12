@@ -129,7 +129,7 @@
                 i.fas.fa-quote-left
                 h3.mb-5 Introducción a la economía social de mercado’ “El mercado es una institución económica en la cual se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, por lo tanto, el sistema de mercado se basa en el intercambio, lo que implica que para tener los bienes y servicios deseados se debe dar a la otra parte lo que ésta a la vez requiere o desea.
                 i.fas.fa-quote-right
-              p.texto-img.mb4 -Según lo menciona Resico, M. F. (2019. p.67) en su libro ‘Introducción a la economía’.
+              p.texto-img.mb4 - Según lo menciona Resico, M. F. (2019. p.67) en su libro.
               
         separador
       
@@ -258,7 +258,7 @@
     .row.mt-5
       p A continuación, se muestran los tipos de mercados clasificados según tipo de producto, según consumidor y tipo de demanda.
     .row.justify-content-center
-      .col-lg-8.textoacordion
+      .col-8.textoacordion
         b Los mercados se pueden clasificar de diferentes maneras teniendo en cuenta cada elemento de estos, permitiendo su comprensión así:
               
       

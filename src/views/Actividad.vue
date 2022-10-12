@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 ACTIVIDAD DIDÁCTICA
+          h2 Verdadero y falso
         p.mb-4  Esta actividad le permitirá determinar el grado de apropiación de los contenidos del componente formativo Lea la información de cada ítem y luego señale verdadero o falso según corresponda. 
 
         .tarjeta.actividad.p-3
