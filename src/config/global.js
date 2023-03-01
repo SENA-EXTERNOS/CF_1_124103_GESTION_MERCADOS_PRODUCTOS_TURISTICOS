@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'El Mercado Turístico',
+    componenteFormativo: 'El mercado turístico',
     descripcionCurso:
       'La comprensión del mercado turístico requiere el reconocimiento de conceptos básicos del mercado, vinculados al sistema turístico, identificando cada uno de sus elementos (superestructura, planta turística, producto turístico, oferta y demanda) y su interrelación con los establecimientos que componen la cadena de valor del turismo desde la dinámica interna que se genera entre ellos al comercializar productos y servicios.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
@@ -35,42 +35,6 @@ export default {
         numero: '1',
         titulo: 'Mercado',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Elementos del mercado',
-            hash: 't_1_1',
-          },
-
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Clasificación de los mercados',
-            hash: 't_1_2',
-          },
-
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Mercado objetivo y mercado meta',
-            hash: 't_1_3',
-          },
-
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Clientes, consumidores y usuarios',
-            hash: 't_1_4',
-          },
-
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Plan de mercadeo',
-            hash: 't_1_5',
-          },
-        ],
       },
 
       {
@@ -79,26 +43,6 @@ export default {
         numero: '2',
         titulo: 'Mercado turístico  ',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Elementos del mercado turístico',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Sistema turístico',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Producto Turístico',
-            hash: 't_2_3',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -145,14 +89,14 @@ export default {
     {
       tema: 'Mercado / Cliente, consumidor y usuario',
       referencia:
-        'Soto, A. F., Tamayo, Y. D., & Almanza, C. A. (2018). Análisis de variables de segmentación de mercados. I+ D Revista de Investigaciones, 11(1), 78-92.',
+        'Soto, A. F., Tamayo, Y. D., & Almanza, C. A. (2018). <em>Análisis de variables de segmentación de mercados. I+ D Revista de Investigaciones, 11</em>(1), 78-92.',
       tipo: 'Artículo Científico',
       link: '/downloads/Análisis de variables de segmentación de mercados.pdf',
     },
     {
       tema: 'Mercado / Plan de Mercadeo',
       referencia:
-        'Machado Besantes, E. R. (2018). Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios.',
+        'Machado Besantes, E. R. (2018). <em>Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios.</em>',
       tipo: 'Libro',
       link:
         '/downloads/Guía metodológica para el desarrollo del plan de marketing en los negocios.pdf',
@@ -161,7 +105,7 @@ export default {
     {
       tema: 'Mercado / Plan de Mercadeo',
       referencia:
-        'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). La evolución del marketing: una aproximación integral.',
+        'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). <em>La evolución del marketing: una aproximación integral</em>.',
       tipo: 'Artículo científico',
       link:
         '/downloads/La Evolución del Marketing una aproximación integral.pdf',
@@ -179,7 +123,7 @@ export default {
     {
       tema: 'Mercado turístico / Elementos del Mercado turístico',
       referencia:
-        'MINCIT (2017) Definiciones y actividades prestadoras de servicios turísticos.',
+        'MINCIT (2017). <em>Definiciones y actividades prestadoras de servicios turísticos.</em>',
       tipo: 'Artículo del Ministerio de Comercio Industria y Turismo.',
       link: '/downloads/Prestadores-de-servicios-turisticos-–-Definiciones.pdf',
     },
@@ -207,42 +151,42 @@ export default {
     {
       termino: 'Producto turístico ',
       significado:
-        'es lo que quiere ofrecer la comunidad anfitriona, pero, también, lo que anhela encontrar el turista vivencial. También se define como aquello que los prestadores logísticos están en capacidad de ofrecer a través de sus servicios. Lo que el operador turístico y la institucionalidad pública están en capacidad de integrar y ensamblar para consolidar una oferta comerciable.  Rivera, Andrés (2018)  ',
+        'es lo que quiere ofrecer la comunidad anfitriona, pero, también, lo que anhela encontrar el turista vivencial. También se define como aquello que los prestadores logísticos están en capacidad de ofrecer a través de sus servicios. Lo que el operador turístico y la institucionalidad pública están en capacidad de integrar y ensamblar para consolidar una oferta comerciable.  Rivera, Andrés (2018).',
     },
 
     {
       termino: 'Turismo',
       significado:
-        'Es un fenómeno social, cultural y económico que supone el desplazamiento de personas a países o lugares fuera de su entorno habitual por motivos personales, profesionales o de negocios; esas personas se denominan viajeros (que pueden ser o bien turistas o excursionistas; residentes o no residentes). El turismo abarca sus actividades, algunas de las cuales suponen un gasto turístico. (OMT, 2022) ',
+        'es un fenómeno social, cultural y económico que supone el desplazamiento de personas a países o lugares fuera de su entorno habitual por motivos personales, profesionales o de negocios; esas personas se denominan viajeros (que pueden ser o bien turistas o excursionistas; residentes o no residentes). El turismo abarca sus actividades, algunas de las cuales suponen un gasto turístico. (OMT, 2022).',
     },
 
     {
       termino: 'Comunidad anfitriona',
       significado:
-        'Grupo de personas de la localidad que de manera autónoma se organiza para gestionar la invitación a los turistas a su territorio para acogerlos y atenderlos durante su estancia a cambio de una retribución económica social ',
+        'grupo de personas de la localidad que de manera autónoma se organiza para gestionar la invitación a los turistas a su territorio para acogerlos y atenderlos durante su estancia a cambio de una retribución económica social.',
     },
 
     {
       termino: 'Tarifa',
       significado:
-        'Es el valor comercial definido para el producto o servicio turístico, teniendo en cuenta que cada uno puede tener varias tarifas dependiendo de la temporada (alta, media, baja), el tipo de viajero o turista (niños, militares, otros), los servicios incluidos y/o las políticas de reserva o cancelación establecidas por el prestador de servicios turísticos',
+        'es el valor comercial definido para el producto o servicio turístico, teniendo en cuenta que cada uno puede tener varias tarifas dependiendo de la temporada (alta, media, baja), el tipo de viajero o turista (niños, militares, otros), los servicios incluidos y/o las políticas de reserva o cancelación establecidas por el prestador de servicios turísticos.',
     },
 
     {
       termino: 'Prestadores de servicios turísticos (PST)',
       significado:
-        'Son los establecimientos que prestan algún servicio turístico (alojamiento, gastronomía, transporte)',
+        'son los establecimientos que prestan algún servicio turístico (alojamiento, gastronomía, transporte).',
     },
 
     {
       termino: 'Oferta',
       significado:
-        'Cantidad de un producto o servicio que se dispone para la venta en un periodo determinado, es decir, número de productos o servicios que están disponibles para la venta en una hora, día, mes o año determinado ',
+        'cantidad de un producto o servicio que se dispone para la venta en un periodo determinado, es decir, número de productos o servicios que están disponibles para la venta en una hora, día, mes o año determinado.',
     },
     {
       termino: 'Demanda',
       significado:
-        'Cantidad de un producto o servicio específico que las personas quieren tener en un horizonte de tiempo determinado, es decir, la demanda, constituye el número de productos o servicios que en una hora, día, mes o año determinado se ha calculado que los consumidores están dispuestos a adquirir',
+        'cantidad de un producto o servicio específico que las personas quieren tener en un horizonte de tiempo determinado, es decir, la demanda, constituye el número de productos o servicios que en una hora, día, mes o año determinado se ha calculado que los consumidores están dispuestos a adquirir.',
     },
 
     {
@@ -255,129 +199,108 @@ export default {
   referencias: [
     {
       referencia:
-        'American Marketing Association. (s.f.). Definitions of Marketing.',
-      link:
-        'https://www.ama.org/the-definition-of-marketing-what-is-marketing/',
+        'American Marketing Association. (s.f.). <em>Definitions of Marketing</em>. What is Marketing? — The Definition of Marketing — AMA',
     },
     {
       referencia:
-        'Acerenza, M.A. (1990). Agencias de Viajes, organización y operación. Trillas.',
-
-      link: '',
+        'Acerenza, M.A. (1990). <em>Agencias de Viajes, organización y operación. Trillas.</em>',
     },
     {
       referencia:
-        'BBC News. (7 de agosto de 2019). Por qué se ha disparado el precio del aguacate y hasta cuándo seguirá subiendo. ',
-
+        'BBC News. (7 de agosto de 2019). <em>Por qué se ha disparado el precio del aguacate y hasta cuándo seguirá subiendo.</em> ',
       link: 'https://www.bbc.com/mundo/noticias-49209380',
     },
     {
       referencia:
-        'Centro Educacional Fernando de Aragón (2020). Módulo: procesos administrativos nm3.',
-
+        'Centro Educacional Fernando de Aragón (2020). <em>Módulo: procesos administrativos nm3.</em> ',
       link:
         'https://colegiofernandodearagon.cl/wp-content/uploads/2020/10/3%C2%B0-MEDIO-GUIA-6-CLASSROOM-PROCESOS-ADMINISTRATIVOS.pdf)',
     },
     {
       referencia:
-        'Cepeda, L. A. V. (2018). Proceso de segmentación. Visión Empresarial, (6), 238-243.',
-
-      link: '',
+        'Cepeda, L. A. V. (2018). <em>Proceso de segmentación.</em> Visión Empresarial, (6), 238-243.',
     },
     {
       referencia:
-        'De La Ballina, F. (2018). Marketing turístico aplicado. (1ª Ed.). ESIC, Alfaomega. ',
+        'De La Ballina, F. (2018). <em>Marketing turístico aplicado.</em> (1ª Ed.). ESIC, Alfaomega. ',
 
       link:
-        'https://www.alphaeditorialcloud.com/reader/marketing-turistico-aplicado?location=30',
+        'https://www.alphaeditorialcloud.com/reader/marketing-turistico-aplicado?location=30 ',
     },
     {
       referencia:
-        'El Pulzo. (6 de marzo de 2020). Se triplicó el precio de los tapabocas por la llegada del coronavirus a Colombia. ',
+        'El Pulzo. (6 de marzo de 2020). <em>Se triplicó el precio de los tapabocas por la llegada del coronavirus a Colombia. </em>',
 
       link:
         'https://www.pulzo.com/economia/triplica-precio-tapabocas-colombia-PP857293',
     },
     {
       referencia:
-        'García, R, Olmos, L. (2016). Estructura del mercado turístico. (2ª Ed.). Paraninfo.',
+        'García, R, Olmos, L. (2016). <em>Estructura del mercado turístico.</em> (2ª Ed.). Paraninfo.',
 
       link:
-        'https://www.alphaeditorialcloud.com/reader/estructura-del-mercado-turistico?location=35',
+        'https://www.alphaeditorialcloud.com/reader/estructura-del-mercado-turistico?location=35 ',
     },
     {
       referencia:
-        'LÓPEZ SALAS, S. E. R. G. I. O. (2020). Atención al cliente, consumidor y usuario. Ediciones Paraninfo, SA.',
-
-      link: '',
+        'LÓPEZ SALAS, S. E. R. G. I. O. (2020). <em>tención al cliente, consumidor y usuario.</em> Ediciones Paraninfo, SA.',
     },
 
     {
       referencia:
-        'Machado Besantes, E. R. (2018). Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios.',
-
+        'Machado Besantes, E. R. (2018). <em>Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios.</em>',
       link:
         '/downloads/Guía metodológica para el desarrollo del plan de marketing en los negocios.pdf',
     },
 
     {
       referencia:
-        'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). La evolución del marketing: una aproximación integral. 78-2019.pdf (unach.cl)',
-
+        'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). <em>La evolución del marketing: una aproximación integral.</em> ',
       link:
         '/downloads/La Evolución del Marketing una aproximación integral.pdf',
     },
 
     {
       referencia:
-        'MINCIT (2017). Definiciones y actividades prestadoras de servicios turísticos. ',
-
+        'MINCIT (2017). <em>Definiciones y actividades prestadoras de servicios turísticos. </em>',
       link:
         'https://www.mincit.gov.co/getattachment/f7c53ff0-36c2-435b-884c-bb5e847f8866/Prestadores-de-servicios-turisticos-%E2%80%93-Definiciones.aspx',
     },
 
     {
       referencia:
-        'MINCIT (2021). Política pública de infraestructura turística',
-
+        'MINCIT (2021). <em>Política pública de infraestructura turística.</em>',
       link:
         ' https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/politicas-del-sector-turismo/politica-de-infraestructura-turistica/09-07-21-politicavmt2020-baja-esp.aspx',
     },
 
     {
       referencia:
-        'Organización Mundial del Turismo. (s.f.). Glosario de términos de turismo. ',
-
+        'Organización Mundial del Turismo. (s.f.). <em>Glosario de términos de turismo.</em> ',
       link: ' https://www.unwto.org/es/glosario-terminos-turisticos',
     },
 
     {
       referencia:
-        'Organización Mundial del Turismo. (s.f.). EL TURISMO MÁS DE CERCA: MEDICIÓN Y ANÁLISIS SUBNACIONAL — PROYECTO CONJUNTO INROUTE-OMT',
-
+        'Organización Mundial del Turismo. (s.f.). <em>EL TURISMO MÁS DE CERCA: MEDICIÓN Y ANÁLISIS SUBNACIONAL — PROYECTO CONJUNTO INROUTE-OMT.</em> ',
       link: 'https://www.unwto.org/es/project/inroute',
     },
 
     {
       referencia:
-        'Resico, M. F. (2019). Introducción a la economía social de mercado. Konrad Adenauer Stiftung. get_file (kas.de)',
-
+        'Resico, M. F. (2019). <em><em>Introducción a la economía social de mercado.</em> Konrad Adenauer Stiftung. ',
       link:
         'https://www.kas.de/c/document_library/get_file?uuid=22412104-f255-886e-178f-8b32bf5bce06&groupId=252038',
     },
 
     {
       referencia:
-        'Rivera, A (2018). Atractivos para un turismo con sentido. Universidad Tecnológica de Pereira',
-
-      link: '',
+        'Rivera, A (2018). <em>Atractivos para un turismo con sentido.</em> Universidad Tecnológica de Pereira.',
     },
 
     {
       referencia:
-        'Soto, A. F., Tamayo, Y. D., & Almanza, C. A. (2018). Análisis de variables de segmentación de mercados. I+ D Revista de Investigaciones, 11(1), 78-92',
-
-      link: '',
+        'Soto, A. F., Tamayo, Y. D., & Almanza, C. A. (2018). <em>Análisis de variables de segmentación de mercados.</em> I+ D Revista de Investigaciones, 11(1), 78-92.',
     },
   ],
 

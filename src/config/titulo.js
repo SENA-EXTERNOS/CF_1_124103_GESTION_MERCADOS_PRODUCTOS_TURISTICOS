@@ -1,1 +1,1 @@
-module.exports = 'Gestión de mercados de productos turísticos'
+module.exports = 'El mercado turístico'
