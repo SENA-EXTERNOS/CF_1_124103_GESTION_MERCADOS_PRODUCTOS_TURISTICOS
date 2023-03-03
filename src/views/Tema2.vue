@@ -182,7 +182,7 @@
 
     
 
-    h3  Producto Turístico
+    h3  Producto turístico
 
     .row.mt-4.justify-content-center.mb-4
       .col-10.col-lg-7
@@ -240,7 +240,7 @@
           p Para ampliar información revise el Anexo 4. Producto turístico, en el cual se detallan aspectos relacionados con el producto turístico y sus componentes. 
 
           .col-9.col-lg-4
-            a.anexo(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")
+            a.anexo(:href="obtenerLink('downloads/anexo4.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

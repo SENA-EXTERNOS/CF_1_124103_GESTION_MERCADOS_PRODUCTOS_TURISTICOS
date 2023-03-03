@@ -115,7 +115,7 @@
 
     h3  Elementos del mercado
 
-    p Es así como en el mercado convergen una serie de actores y relaciones que de aquí en adelante se denominará elementos del mercado y que vale la pena mirar en detalle: 
+    p Es así como en el mercado convergen una serie de actores y relaciones que de aquí en adelante se denominarán elementos del mercado y que vale la pena mirar en detalle: 
 
     .row.justify-content-center.mt-5.mb-4
       .col-lg-8.sm-8
@@ -126,9 +126,7 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/Tema1/elemento.png', alt='Texto que describa la imagen')
-              figcaption Nota: Adaptado de 
-                i Elementos del mercado, 
-                | de Principios e instrumentos
+              figcaption Nota: adaptado de Elementos del mercado – Principios y fundamentos.
 
           div(x="17%" y="23%" tooltip="Ver más" numero="1")
             h5 Oferta
@@ -178,6 +176,8 @@
     
   
     h4.mb-4 Ley de la oferta y la demanda  
+
+    p Es una teoría económica que responde a los sucesos orgánicos o planificados que se dan como resultado de la interacción de los elementos del mercado. Las interacciones cotidianas entre los productores, distribuidores y consumidores generan variaciones constantes del precio y de la cantidad de productos y servicios a fabricar o a distribuir.
     
     .row.justify-content-around.align-items-center
       .col-lg-2.col-sm-10
@@ -262,7 +262,10 @@
       .col-lg-7.mb-3
         p Como fue mencionado anteriormente, #[b el mercado objetivo es una de las clasificaciones de los mercados según el tipo de demanda y es aquel que representa al grupo de personas o empresas que comparten una o más características] y que por sus condiciones físicas, geográficas, sociales, culturales y/o económicas son de interés para una empresa en su labor comercial.
         .cajon.color-acento-contenido.p-4.mb-4     
-          p Para comprender mejor el mercado objetivo, se hace necesario conocer el concepto de #[b ‘Segmentación de mercados’], el que, según Soto, Tamayo, y Almanza (2018) en su artículo’ ‘Análisis de variables de segmentación de mercados’ define como el #[b proceso mediante el cual se divide un mercado poblacional en grupos de consumidores con necesidades y características homogéneas para poder ofrecerles bienes y servicios que tengan un valor de uso o de consumo]. 
+          p.mb-0 Para comprender mejor el mercado objetivo, se hace necesario conocer el concepto de 
+            b ‘Segmentación de mercados’, 
+            | el que, según Soto, Tamayo, y Almanza (2018), en su artículo, ‘Análisis de variables de segmentación de mercados’, definen como el 
+            b proceso mediante el cual se divide un mercado poblacional en grupos de consumidores con necesidades y características homogéneas para poder ofrecerles bienes y servicios que tengan un valor de uso o de consumo. 
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/Tema1/tema13.png', alt='Texto que describa la imagen')
@@ -278,7 +281,7 @@
 
         
           .col-lg-6.col-sm-10
-            a.anexo(:href="obtenerLink('downloads/Anexo_1.pdf')" target="_blank")
+            a.anexo(:href="obtenerLink('downloads/anexo1.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
               .anexo__texto
@@ -291,8 +294,7 @@
     h3  Clientes, consumidores y usuarios
 
     p.mb-4 Es relevante conocer la diferencia entre los conceptos de cliente, consumidor y usuario que están estrechamente relacionados con el tipo de producto o servicio que adquieren o el rol que asumen en el proceso de intercambio.      
-          
-    h4 Cliente, usuario y consumidor
+        
 
     TabsA.color-acento-contenido.mb-5        
       .tarjeta.color-tarjetacliente.p-4(titulo="El cliente")      
@@ -336,7 +338,7 @@
         p Para ampliar la información revise el Anexo 2. Clientes, consumidores y usuarios, en donde se describe el concepto, sus rasgos diferenciadores y se ilustran con ejemplos de clientes como persona natural y como persona jurídica y ejemplos de consumidores y usuarios de servicios.
 
         .col-lg-6.col-sm-10
-            a.anexo.mb-4(:href="obtenerLink('downloads/Anexo_2_1.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('downloads/anexo2_1.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
               .anexo__texto
@@ -370,7 +372,7 @@
 
     
         .col-lg-6.col-sm-10
-            a.anexo.mb-4(:href="obtenerLink('downloads/Anexo_3.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('downloads/anexo3.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/curso/temas/Tema1/icono-pdf.svg")
               .anexo__texto
