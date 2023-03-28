@@ -91,7 +91,8 @@ export default {
       referencia:
         'Soto, A. F., Tamayo, Y. D., & Almanza, C. A. (2018). <em>Análisis de variables de segmentación de mercados. I+ D Revista de Investigaciones, 11</em>(1), 78-92.',
       tipo: 'Artículo Científico',
-      link: '/downloads/Análisis de variables de segmentación de mercados.pdf',
+      link:
+        'https://www.google.com/url?q=https://www.udi.edu.co/revistainvestigaciones/index.php/ID/article/view/166/197&sa=D&source=docs&ust=1680041849237786&usg=AOvVaw2p5WPcKt7qMmrPDJG2RwoC',
     },
     {
       tema: 'Mercado / Plan de Mercadeo',
@@ -99,7 +100,7 @@ export default {
         'Machado Besantes, E. R. (2018). <em>Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios.</em>',
       tipo: 'Libro',
       link:
-        '/downloads/Guía metodológica para el desarrollo del plan de marketing en los negocios.pdf',
+        'https://www.google.com/url?q=https://www.investigarmqr.com/26_MA.pdf&sa=D&source=docs&ust=1680041849236727&usg=AOvVaw1pCMsYxwCqMGo2bBV712NK',
     },
 
     {
@@ -108,7 +109,7 @@ export default {
         'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). <em>La evolución del marketing: una aproximación integral</em>.',
       tipo: 'Artículo científico',
       link:
-        '/downloads/La Evolución del Marketing una aproximación integral.pdf',
+        'https://www.google.com/url?q=https://sitios.vtte.utem.cl/rches/wp-content/uploads/sites/8/2019/07/revista-CHES-vol13-n1-2019-Mendivelso-Lobos.pdf&sa=D&source=docs&ust=1680041849239053&usg=AOvVaw0dnv0wq4WowuXMy84DJ5Z7',
     },
 
     {
@@ -125,7 +126,8 @@ export default {
       referencia:
         'MINCIT (2017). <em>Definiciones y actividades prestadoras de servicios turísticos.</em>',
       tipo: 'Artículo del Ministerio de Comercio Industria y Turismo.',
-      link: '/downloads/Prestadores-de-servicios-turisticos-–-Definiciones.pdf',
+      link:
+        'https://www.google.com/url?q=https://www.mincit.gov.co/getattachment/f7c53ff0-36c2-435b-884c-bb5e847f8866/Prestadores-de-servicios-turisticos-%25E2%2580%2593-Definiciones.aspx&sa=D&source=docs&ust=1680041849242023&usg=AOvVaw05f9RJDzVI3aYmmuUsH31o',
     },
 
     {
@@ -133,7 +135,8 @@ export default {
       referencia: 'MINCIT (2017) Resolución 543',
       tipo:
         'Resolución 543 de 2017 emitida por el Ministerio de Comercio, Industria y Turismo de Colombia como reglamento técnico para Parques de diversiones, atracciones o dispositivos de entretenimiento familiar',
-      link: '/downloads/Plan Sectorial de Turismo 2018 2022.pdf',
+      link:
+        'https://www.google.com/url?q=https://www.mincit.gov.co/getattachment/463d5ee7-5ce9-4bb2-a818-bf509bd67b09/Resolucion-No-543-quot-Por-la-cual-se-expide-el-re.aspx&sa=D&source=docs&ust=1680041849243304&usg=AOvVaw1Oq7fULprVnvizbH2tK65M',
     },
   ],
   glosario: [
@@ -277,7 +280,8 @@ export default {
     {
       referencia:
         'Organización Mundial del Turismo. (s.f.). <em>Glosario de términos de turismo.</em> ',
-      link: ' https://www.unwto.org/es/glosario-terminos-turisticos',
+      link:
+        'https://www.google.com/url?q=https://www.unwto.org/es/project/UNWTO_INRouTe&sa=D&source=docs&ust=1680041849244086&usg=AOvVaw07-4LNoJWVQEmUd-FQisc2',
     },
 
     {
