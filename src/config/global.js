@@ -252,15 +252,14 @@ export default {
     {
       referencia:
         'Machado Besantes, E. R. (2018). <em>Guía Metodológica para el desarrollo del Plan de Marketing en los Negocios.</em>',
-      link:
-        '/downloads/Guía metodológica para el desarrollo del plan de marketing en los negocios.pdf',
+      link: 'https://www.investigarmqr.com/26_MA.pdf',
     },
 
     {
       referencia:
         'Mendivelso Carrillo, H., & Lobos Robles, F. (2019). <em>La evolución del marketing: una aproximación integral.</em> ',
       link:
-        '/downloads/La Evolución del Marketing una aproximación integral.pdf',
+        'https://sitios.vtte.utem.cl/rches/wp-content/uploads/sites/8/2019/07/revista-CHES-vol13-n1-2019-Mendivelso-Lobos.pdf',
     },
 
     {
