@@ -286,7 +286,7 @@ export default {
     {
       referencia:
         'Organización Mundial del Turismo. (s.f.). <em>EL TURISMO MÁS DE CERCA: MEDICIÓN Y ANÁLISIS SUBNACIONAL — PROYECTO CONJUNTO INROUTE-OMT.</em> ',
-      link: 'https://www.unwto.org/es/project/inroute',
+      link: 'https://www.unwto.org/es/project/UNWTO_INRouTe',
     },
 
     {
