@@ -15,7 +15,7 @@
           )
           .bloque-texto-g__texto2.p-4
             .col-10.col-lg-12
-              p.mb-0 Mercado es una palabra que puede tomar diferentes significados dependiendo del entorno, por lo tanto, a continuación, se presentan cuatro frases y su relación con dicho concepto.
+              p.mb-0 Mercado es una palabra que puede tomar diferentes significados dependiendo del entorno, a continuación, se presentan cuatro frases y su relación con dicho concepto.
 
     .row.mt-5.justify-content-center.mb-4
       .col-12
@@ -106,10 +106,10 @@
         img(src='@/assets/curso/temas/Tema1/mercado.png' alt='Texto que describa la imagen' width='505px' height='430px')
           
       .col-lg-7.sm-8
-        p.mt-2 El mercado es el espacio, físico o virtual donde se produce el intercambio de bienes y servicios. Son todas las interacciones que surgen a partir de este intercambio, por lo tanto, se mueve alrededor de las actividades económicas fundamentales, que son producción, distribución y consumo, lo que deja ver que sus actores principales son los consumidores, productores y distribuidores de dichos bienes y servicios, quienes en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado se encuentran el precio, el producto y el proceso de intercambio.
+        p.mt-2 El mercado es el espacio, físico o virtual donde se produce el intercambio de bienes y servicios. Son todas las interacciones que surgen a partir de este intercambio, por lo tanto, se mueve alrededor de las actividades económicas fundamentales, que son producción, distribución y consumo, lo que deja ver que sus actores principales son los consumidores, productores y distribuidores de dichos bienes y servicios, quienes, en la dinámica de compra y venta, generan unas relaciones denominadas oferta y demanda.  Adicionalmente, dentro de los elementos que componen al mercado se encuentran el precio, el producto y el proceso de intercambio.
                         
         .cajon.color-acento-botones.p-4.mb-4
-          p.mb-0 Según lo menciona Resico, M. F. (2019. p.67) en su libro ‘Introducción a la economía social de mercado’ “El mercado es una institución económica en la cual se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, por lo tanto, el sistema de mercado se basa en el intercambio, lo que implica que para tener los bienes y servicios deseados se debe dar a la otra parte lo que ésta a la vez requiere o desea” 
+          p.mb-0 Según lo menciona Resico, M. F. (2019. p.67) en su libro ‘Introducción a la economía social de mercado’, “El mercado es una institución económica en la cual se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, por lo tanto, el sistema de mercado se basa en el intercambio, lo que implica que para tener los bienes y servicios deseados se debe dar a la otra parte lo que ésta a la vez requiere o desea” 
 
               
 
@@ -184,7 +184,7 @@
         figure
           img(src='@/assets/curso/temas/Tema1/estadistica.png', alt='Texto que describa la imagen').img-tarjeta-linea-1
       .col-lg-10.col-sm-10
-        p Cuando se incrementa la demanda de un producto, sube el precio y también la producción, lo que es conocido como la #[b ley de la oferta], en este mismo orden de ideas, el incremento del precio de un producto, desincentivar su consumo, lo que se denomina la #[b ley de la demanda].
+        p Cuando se incrementa la demanda de un producto, sube el precio y también la producción, lo que es conocido como la <b>ley de la oferta</b>, en este orden de ideas, el incremento del precio de un producto, conlleva a desincentivar el consumo, este fenómeno se denomina la <b>ley de la demanda</b>.
 
         p Para la mejor comprensión de lo anterior es pertinente analizar los siguientes ejemplos:
 
@@ -197,14 +197,14 @@
             figure
               img(src='@/assets/curso/temas/Tema1/pestaña1.svg', alt='Texto que describa la imagen' width='440px' height='255px' )         
           .col-md-6.mt-2
-            p En el año 2020, durante la emergencia sanitaria debido al COVID-19, el consumo por el uso de tapabocas se incrementó de manera desproporcionada, triplicando su precio, lo que generó escasez de este producto, desencadenando una serie de situaciones en la producción, distribución y venta de este, que llevó  al incremento de su precio donde, una caja, por 20 unidades, de tapabocas antivirus de la marca Apolo N95 se encontraba  hasta en 445.000 pesos colombianos en Internet según publicación de El Pulzo en 2020.    
+            p En el año 2020, durante la emergencia sanitaria debido al COVID-19, el consumo por el uso de tapabocas se incrementó de manera desproporcionada, triplicando su precio, lo que generó escasez de este producto, desencadenando una serie de situaciones en la producción, distribución y venta de este, que llevó al incremento de su precio donde, una caja por 20 unidades de tapabocas antivirus se encontraba hasta en 445.000 pesos colombianos, según publicación de El Pulzo de ese año.  
       .py-3.py-md-4(titulo="<b>Ejemplo 2: tendencia alimentación saludable</b>")
         .row
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/Tema1/pestaña2.svg' alt='Texto que describa la imagen' width='440px' height='255px')            
           .col-md-6
-            p La tendencia del #[em fitness] y de alimentación saludable ha popularizado el consumo de algunos alimentos en los últimos años, como es el caso del aguacate. En el año 2019 como no lo cuenta la BBC News, se dio el ‘#[em boom] global del aguacate’ con un incremento de su consumo y a su vez una escasez de este, lo que ocasionó un alza en su precio. 
+            p La tendencia del #[em fitness] y de alimentación saludable ha popularizado el consumo de algunos alimentos en los últimos años, como es el caso del aguacate. En el año 2019 como lo cuenta la BBC News, se dio el ‘#[em boom] global del aguacate’ con un incremento de su consumo y a su vez una escasez de este, lo que ocasionó un alza en su precio. 
            
     .row.justify-content-center.mt-5.mb-5
       .col-lg-10.sm-8
@@ -352,7 +352,7 @@
 
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-7
-        p Las empresas en su direccionamiento estratégico cuentan con diferentes objetivos organizacionales que apuntan al logro de la visión empresarial que han determinado en un horizonte de tiempo, por lo general, de 5 años o más.  Estos objetivos marcan una ruta clara de acción que normalmente se traduce en planes y programas específicos para las diferentes áreas de la empresa, permitiendo así que cada un aporte desde su operación a la consecución de los objetivos marcados.
+        p Las empresas en su direccionamiento estratégico cuentan con diferentes objetivos organizacionales que apuntan al logro de la visión empresarial que han determinado en un horizonte de tiempo, por lo general, de 5 años o más.  Estos objetivos marcan una ruta clara de acción que normalmente se traduce en planes y programas específicos para las diferentes áreas de la empresa, permitiendo así que cada uno aporte desde su operación a la consecución de los objetivos marcados.
         .cajon.color-acento-contenido.p-4.mb-4     
           p.mb-0 En términos comerciales, las empresas buscan posicionamiento y reconocimiento de su marca, la apertura de nuevos mercados, la llegada de nuevos clientes, la fidelización de los clientes actuales y el incremento de las ventas y para lograrlo requieren hacerlo de manera planificada y organizada. En virtud de lo anterior se hace necesario contar con un plan de mercadeo.
       .col-lg-5

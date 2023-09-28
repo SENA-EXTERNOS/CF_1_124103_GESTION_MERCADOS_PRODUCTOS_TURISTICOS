@@ -22,7 +22,7 @@
 
           .row(titulo="Concepto de mercado turístico")
             .col-12
-              p.mb-0 De la misma manera en la que el mercado se define como una institución económica en la que se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, en el mercado turístico sucede lo mismo, solo que las partes son en lugar de consumidores, viajeros y en lugar de productores o distribuidores prestadores de servicios turísticos y agencias de viajes.  Pero en esencia el concepto de mercado prevalece siendo su base el intercambio de bienes y servicios, en este caso, turísticos.
+              p.mb-0 De la misma manera en la que el mercado se define como una institución económica en la que se produce el punto de encuentro entre las dos partes que intercambian un bien o servicio, en el mercado turístico sucede lo mismo, solo que las partes son, en lugar de consumidores, viajeros y en lugar de productores o distribuidores, prestadores de servicios turísticos y agencias de viajes.  Pero en esencia el concepto de mercado prevalece siendo su base el intercambio de bienes y servicios, en este caso, turísticos.
 
       
       .col-8.col-lg-4
@@ -69,7 +69,7 @@
         .col-10.col-lg-7.pt-4
           h4 Viajeros
           
-          p Un viajero es toda persona que se desplaza entre dos lugares geográficos distintos por cualquier motivo y duración. (RIET. 2008, citado en OMT, (s.f.). Se clasifican de la siguiente manera:
+          p Un viajero es toda persona que se desplaza entre dos lugares geográficos distintos por cualquier motivo y duración. (RIET. 2008, citado en OMT, (s.f.)). Se clasifican de la siguiente manera:
           
           p <i class="fas fa-check" STYLE="Color: orange"></i> #[strong Visitante:]  un visitante es aquel que viaja a un destino por un periodo de tiempo determinado y con la intención de volver a su lugar de procedencia, dependiendo del tiempo de estadía se divide en: turista y excursionista.
           
@@ -146,7 +146,7 @@
       .row.justify-content-center.alig-items-center
         .col-10.col-lg-7.pt-4
           h4 Demanda turística          
-          p La afluencia de visitantes que tiene el destino o el nivel de clientes que tiene prestador de servicios turísticos en un periodo determinado.
+          p La afluencia de visitantes que tiene el destino o el nivel de clientes que tiene el prestador de servicios turísticos en un periodo determinado.
         .col-8.col-lg-4
           figure
             img(src='@/assets/curso/temas/tema2/img10.svg', alt='Texto que describa la imagen')
