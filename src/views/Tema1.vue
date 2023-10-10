@@ -125,8 +125,8 @@
         ImagenInfograficaB.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/Tema1/elemento.png', alt='Texto que describa la imagen')
-              figcaption Nota: adaptado de Elementos del mercado – Principios y fundamentos.
+              img(src='@/assets/curso/temas/Tema1/elemento.svg', alt='Texto que describa la imagen')
+              figcaption Nota: adaptado de Elementos del mercado - Principios y fundamentos.
 
           div(x="17%" y="23%" tooltip="Ver más" numero="1")
             h5 Oferta
