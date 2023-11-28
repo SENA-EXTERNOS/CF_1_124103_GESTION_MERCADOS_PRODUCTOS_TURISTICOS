@@ -202,10 +202,14 @@ export default {
     {
       referencia:
         'American Marketing Association. (s.f.). <em>Definitions of Marketing</em>. What is Marketing? — The Definition of Marketing — AMA',
+      link:
+        'https://www.ama.org/the-definition-of-marketing-what-is-marketing/#',
     },
     {
       referencia:
         'Acerenza, M.A. (1990). <em>Agencias de Viajes, organización y operación. Trillas.</em>',
+      link:
+        'https://es.scribd.com/document/510177476/Agencia-de-Viajes-Organizacion-y-Operacion',
     },
     {
       referencia:
@@ -291,6 +295,8 @@ export default {
     {
       referencia:
         'Rivera, A (2018). <em>Atractivos para un turismo con sentido.</em> Universidad Tecnológica de Pereira.',
+      link:
+        'https://repositorio.utp.edu.co/items/07ea185d-ed43-4eae-8ad5-112c736d098b',
     },
 
     {
